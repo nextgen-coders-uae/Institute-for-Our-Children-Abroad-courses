@@ -1,0 +1,27 @@
+[
+  {
+    "group": { "ar": "الحجز والدفع", "en": "Booking & payment" },
+    "items": [
+      { "q": { "ar": "كيف أحجز كورساً؟", "en": "How do I book a course?" }, "a": { "ar": "أضف الكورس للسلة واختر المجموعة ونوع الحضور، ثم املأ بياناتك واضغط «تأكيد الحجز عبر واتساب». سيتواصل معك فريقنا لتأكيد المقعد وطريقة الدفع.", "en": "Add the course to your cart, choose the group and attendance type, fill in your details and tap “Confirm booking via WhatsApp”. Our team will contact you to confirm your seat and payment method." } },
+      { "q": { "ar": "ما طرق الدفع المتاحة؟", "en": "What payment methods are available?" }, "a": { "ar": "حالياً: الدفع نقداً أو بالبطاقة في مقر المعهد بعجمان، أو التحويل البنكي، أو رابط دفع إلكتروني يُرسل عبر واتساب. الدفع الإلكتروني المباشر من الموقع والتقسيط قريباً.", "en": "Currently: cash or card at our Ajman premises, bank transfer, or an online payment link sent via WhatsApp. Direct online payment and instalments are coming soon." } },
+      { "q": { "ar": "هل يوجد خصم للإخوة؟", "en": "Is there a sibling discount?" }, "a": { "ar": "نعم، خصم ١٠٪ للأخ الثاني و١٥٪ للثالث فأكثر في نفس الكورس، ويُحسب تلقائياً عند اختيار عدد المتدربين.", "en": "Yes — 10% for the second sibling and 15% for the third and beyond on the same course, calculated automatically when you choose the number of trainees." } },
+      { "q": { "ar": "هل يمكنني الدفع بعملة أخرى؟", "en": "Can I pay in another currency?" }, "a": { "ar": "الأسعار الرسمية بالدرهم الإماراتي، ويمكنك عرضها تقريبياً بالجنيه المصري من أعلى الصفحة.", "en": "Official prices are in AED; you can preview approximate prices in EGP from the top of the page." } }
+    ]
+  },
+  {
+    "group": { "ar": "الكورسات والحضور", "en": "Courses & attendance" },
+    "items": [
+      { "q": { "ar": "ما الفرق بين الحضوري والأونلاين والمسجّل؟", "en": "What's the difference between in-person, online and recorded?" }, "a": { "ar": "الحضوري في مقر المعهد بعجمان، والأونلاين حصص مباشرة تفاعلية عبر Zoom، والمسجّل فيديوهات تشاهدها في أي وقت مع متابعة دورية.", "en": "In-person is at our Ajman premises, online is live interactive classes on Zoom, and recorded is on-demand videos with periodic follow-up." } },
+      { "q": { "ar": "ماذا لو فاتتني حصة؟", "en": "What if I miss a class?" }, "a": { "ar": "حصص الأونلاين تُسجّل وتُرسل لك، وفي الحضوري يمكن التعويض مع مجموعة أخرى حسب التوفر.", "en": "Online classes are recorded and shared; for in-person you can make up the class with another group when available." } },
+      { "q": { "ar": "كيف أعرف المستوى المناسب؟", "en": "How do I know the right level?" }, "a": { "ar": "جرّب اختبار تحديد المستوى المجاني للإنجليزية، أو تواصل معنا لترتيب مقابلة قصيرة للغات الأخرى.", "en": "Take our free English placement test, or contact us to arrange a short interview for other languages." } },
+      { "q": { "ar": "هل الكورسات متاحة لمن هم خارج الإمارات؟", "en": "Are courses available outside the UAE?" }, "a": { "ar": "نعم، كل الكورسات الأونلاين والمسجّلة متاحة من أي دولة، ومواعيدها بتوقيت الإمارات.", "en": "Yes, all online and recorded courses are available worldwide, scheduled in UAE time." } }
+    ]
+  },
+  {
+    "group": { "ar": "الشهادات", "en": "Certificates" },
+    "items": [
+      { "q": { "ar": "هل أحصل على شهادة؟", "en": "Will I get a certificate?" }, "a": { "ar": "نعم، شهادة إتمام من معهد أبناؤنا في الخارج تحمل رقماً فريداً يمكن التحقق منه عبر صفحة «التحقق من الشهادات».", "en": "Yes, a completion certificate from Abnaona Institute with a unique number verifiable on our “Verify certificate” page." } },
+      { "q": { "ar": "ما شروط الحصول على الشهادة؟", "en": "What are the certificate requirements?" }, "a": { "ar": "حضور ٨٠٪ من الحصص على الأقل واجتياز التقييم النهائي.", "en": "Attending at least 80% of sessions and passing the final assessment." } }
+    ]
+  }
+]

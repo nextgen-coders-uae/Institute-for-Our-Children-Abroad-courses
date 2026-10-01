@@ -1,0 +1,99 @@
+[
+  {
+    "id": "p-english-journey",
+    "slug": "english-journey",
+    "icon": "papyrus",
+    "highlight": true,
+    "title": {
+      "ar": "باقة رحلة الإنجليزية (٣ مستويات)",
+      "en": "English Journey Bundle (3 levels)"
+    },
+    "description": {
+      "ar": "من التأسيس إلى المحادثة ثم IELTS — وفّر أكثر من ٢٥٪ عند حجز المستويات الثلاثة معاً.",
+      "en": "From foundation to conversation to IELTS — save 25%+ by booking all three levels together."
+    },
+    "courseIds": [
+      "c-eng-kids",
+      "c-eng-conv",
+      "c-ielts"
+    ],
+    "modes": [
+      "in-person",
+      "online"
+    ],
+    "price": 2250,
+    "oldPrice": 3050
+  },
+  {
+    "id": "p-little-genius",
+    "slug": "little-genius",
+    "icon": "pyramid",
+    "title": {
+      "ar": "باقة العبقري الصغير",
+      "en": "Little Genius Bundle"
+    },
+    "description": {
+      "ar": "إنجليزي للأطفال + برمجة Scratch — مزيج مثالي لبناء اللغة والتفكير المنطقي.",
+      "en": "Kids English + Scratch coding — the perfect mix of language and logical thinking."
+    },
+    "courseIds": [
+      "c-eng-kids",
+      "c-scratch"
+    ],
+    "modes": [
+      "in-person",
+      "online"
+    ],
+    "price": 1100,
+    "oldPrice": 1350
+  },
+  {
+    "id": "p-designer",
+    "slug": "designer-pro",
+    "icon": "eye",
+    "title": {
+      "ar": "باقة المصمم المحترف",
+      "en": "Pro Designer Bundle"
+    },
+    "description": {
+      "ar": "أساسيات التصميم + السوشيال ميديا + الهوية البصرية — طريقك الكامل لسوق العمل الحر.",
+      "en": "Design essentials + social media + brand identity — your full path to freelancing."
+    },
+    "courseIds": [
+      "c-graphic-design",
+      "c-social-design",
+      "c-brand-identity"
+    ],
+    "modes": [
+      "online",
+      "in-person"
+    ],
+    "price": 2350,
+    "oldPrice": 2850
+  },
+  {
+    "id": "p-developer",
+    "slug": "future-developer",
+    "icon": "pyramid",
+    "highlight": false,
+    "title": {
+      "ar": "باقة مطوّر المستقبل",
+      "en": "Future Developer Bundle"
+    },
+    "description": {
+      "ar": "Python + تطوير المواقع + الذكاء الاصطناعي — من أول سطر كود إلى مشاريع حقيقية.",
+      "en": "Python + web development + AI — from your first line of code to real projects."
+    },
+    "courseIds": [
+      "c-python",
+      "c-web-dev",
+      "c-ai-python"
+    ],
+    "modes": [
+      "online",
+      "in-person"
+    ],
+    "price": 2500,
+    "oldPrice": 3200
+  }
+]

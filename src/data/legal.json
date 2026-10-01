@@ -1,0 +1,34 @@
+{
+  "_comment": "Template legal texts — must be reviewed by a legal advisor before launch.",
+  "privacy": {
+    "title": { "ar": "سياسة الخصوصية", "en": "Privacy Policy" },
+    "updated": "2026-09-30",
+    "sections": [
+      { "h": { "ar": "البيانات التي نجمعها", "en": "Data we collect" }, "p": { "ar": "نجمع البيانات التي تقدمها طوعاً عند الحجز أو التواصل: اسم المتدرب وعمره، اسم ولي الأمر، رقم الهاتف، البريد الإلكتروني، والدولة. كما نستخدم أدوات تحليلات لقياس أداء الموقع بشكل مجمّع.", "en": "We collect the data you voluntarily provide when booking or contacting us: trainee name and age, guardian name, phone number, email and country. We also use analytics tools to measure site performance in aggregate." } },
+      { "h": { "ar": "كيف نستخدم بياناتك", "en": "How we use your data" }, "p": { "ar": "لتأكيد الحجز والتواصل بخصوص الكورسات والمواعيد وإصدار الشهادات، ولإرسال العروض إذا اشتركت في النشرة البريدية.", "en": "To confirm bookings, communicate about courses and schedules, issue certificates, and send offers if you subscribed to our newsletter." } },
+      { "h": { "ar": "مشاركة البيانات", "en": "Sharing data" }, "p": { "ar": "لا نبيع بياناتك لأي طرف ثالث. قد تمر الرسائل عبر خدمات مثل واتساب وفق سياساتها الخاصة.", "en": "We never sell your data. Messages may pass through services such as WhatsApp under their own policies." } },
+      { "h": { "ar": "خصوصية الأطفال", "en": "Children's privacy" }, "p": { "ar": "حجوزات المتدربين دون ١٨ عاماً تتم عبر ولي الأمر أو بموافقته.", "en": "Bookings for trainees under 18 are made by, or with the consent of, a parent or guardian." } },
+      { "h": { "ar": "حقوقك", "en": "Your rights" }, "p": { "ar": "يمكنك طلب الاطلاع على بياناتك أو تعديلها أو حذفها بالتواصل معنا عبر البريد أو واتساب.", "en": "You may request access to, correction or deletion of your data by contacting us via email or WhatsApp." } }
+    ]
+  },
+  "terms": {
+    "title": { "ar": "الشروط والأحكام", "en": "Terms & Conditions" },
+    "updated": "2026-09-30",
+    "sections": [
+      { "h": { "ar": "الحجز", "en": "Booking" }, "p": { "ar": "يُعدّ الحجز عبر الموقع طلباً مبدئياً، ولا يُثبَّت المقعد إلا بعد تأكيد فريق المعهد وسداد الرسوم.", "en": "A booking through the website is a preliminary request; the seat is confirmed only after our team's confirmation and payment." } },
+      { "h": { "ar": "الأسعار والخصومات", "en": "Prices & discounts" }, "p": { "ar": "الأسعار بالدرهم الإماراتي وقد تتغير دون إشعار مسبق. لا تُجمع الخصومات بما يتجاوز الحد الأقصى المعلن، وأسعار العملات الأخرى تقريبية.", "en": "Prices are in AED and may change without notice. Discounts cannot exceed the announced maximum, and prices in other currencies are approximate." } },
+      { "h": { "ar": "الحضور والسلوك", "en": "Attendance & conduct" }, "p": { "ar": "يلتزم المتدرب بمواعيد الحصص وآداب التعامل داخل القاعة وفي الحصص الأونلاين.", "en": "Trainees must respect class times and code of conduct in class and online." } },
+      { "h": { "ar": "الملكية الفكرية", "en": "Intellectual property" }, "p": { "ar": "المواد التدريبية والتسجيلات مخصصة للاستخدام الشخصي للمتدرب ولا يجوز نشرها أو مشاركتها.", "en": "Training materials and recordings are for the trainee's personal use and may not be published or shared." } }
+    ]
+  },
+  "refund": {
+    "title": { "ar": "سياسة الاسترجاع والإلغاء", "en": "Refund & Cancellation Policy" },
+    "updated": "2026-09-30",
+    "sections": [
+      { "h": { "ar": "قبل بدء الكورس", "en": "Before the course starts" }, "p": { "ar": "استرداد كامل عند الإلغاء قبل ٧ أيام أو أكثر من موعد البدء، واسترداد ٥٠٪ عند الإلغاء خلال آخر ٧ أيام.", "en": "Full refund if cancelled 7+ days before the start date; 50% refund if cancelled within the last 7 days." } },
+      { "h": { "ar": "بعد بدء الكورس", "en": "After the course starts" }, "p": { "ar": "يمكن التحويل لمجموعة أو كورس آخر خلال أول حصتين، ولا يُسترد المبلغ بعد ذلك إلا في الحالات الاستثنائية.", "en": "You can transfer to another group or course within the first two sessions; no refunds afterwards except in exceptional cases." } },
+      { "h": { "ar": "الكورسات المسجّلة", "en": "Recorded courses" }, "p": { "ar": "لا تُسترد رسوم الكورسات المسجّلة بعد تفعيل الوصول إلى المحتوى.", "en": "Recorded-course fees are non-refundable once content access is activated." } },
+      { "h": { "ar": "إلغاء من طرف المعهد", "en": "Cancellation by the institute" }, "p": { "ar": "إذا أُلغيت المجموعة لعدم اكتمال العدد، يُسترد المبلغ كاملاً أو يُحوّل لمجموعة أخرى حسب رغبة المتدرب.", "en": "If a group is cancelled due to low enrolment, you get a full refund or transfer to another group, as you prefer." } }
+    ]
+  }
+}

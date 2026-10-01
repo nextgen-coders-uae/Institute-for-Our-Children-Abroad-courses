@@ -1,0 +1,39 @@
+{
+  "_comment": "English placement test. 'answer' is the zero-based index of the correct option. Bands map the number of correct answers to a CEFR level; 'recommend' lists course slugs per age group.",
+  "questions": [
+    { "id": 1, "level": "A1", "q": "My name ___ Sara.", "options": ["am", "is", "are", "be"], "answer": 1 },
+    { "id": 2, "level": "A1", "q": "There are two ___ on the table.", "options": ["apple", "apples", "an apple", "appleses"], "answer": 1 },
+    { "id": 3, "level": "A1", "q": "___ you like coffee?", "options": ["Does", "Is", "Do", "Are"], "answer": 2 },
+    { "id": 4, "level": "A1", "q": "She lives ___ Ajman.", "options": ["on", "at", "in", "to"], "answer": 2 },
+    { "id": 5, "level": "A2", "q": "Yesterday I ___ to the beach with my family.", "options": ["go", "went", "gone", "going"], "answer": 1 },
+    { "id": 6, "level": "A2", "q": "This book is ___ than that one.", "options": ["interesting", "more interesting", "most interesting", "interestinger"], "answer": 1 },
+    { "id": 7, "level": "A2", "q": "Look! The children ___ in the garden.", "options": ["play", "plays", "are playing", "played"], "answer": 2 },
+    { "id": 8, "level": "A2", "q": "I have lived here ___ 2019.", "options": ["for", "since", "from", "during"], "answer": 1 },
+    { "id": 9, "level": "B1", "q": "If it rains tomorrow, we ___ at home.", "options": ["stay", "would stay", "will stay", "stayed"], "answer": 2 },
+    { "id": 10, "level": "B1", "q": "The letter ___ by my grandfather in 1990.", "options": ["wrote", "was written", "has written", "is writing"], "answer": 1 },
+    { "id": 11, "level": "B1", "q": "I'm not used to ___ up so early.", "options": ["get", "got", "getting", "gets"], "answer": 2 },
+    { "id": 12, "level": "B1", "q": "She asked me where ___.", "options": ["did I live", "I lived", "do I live", "I am live"], "answer": 1 },
+    { "id": 13, "level": "B2", "q": "By the time we arrived, the film ___.", "options": ["already started", "has already started", "had already started", "was already start"], "answer": 2 },
+    { "id": 14, "level": "B2", "q": "I wish I ___ more time to travel.", "options": ["have", "had", "will have", "am having"], "answer": 1 },
+    { "id": 15, "level": "B2", "q": "The project was a success, ___ the tight deadline.", "options": ["although", "despite", "even though", "however"], "answer": 1 },
+    { "id": 16, "level": "B2", "q": "Choose the closest meaning: 'He finally came up with a solution.'", "options": ["He rejected a solution", "He thought of a solution", "He waited for a solution", "He copied a solution"], "answer": 1 },
+    { "id": 17, "level": "C1", "q": "Had I known about the traffic, I ___ earlier.", "options": ["would leave", "would have left", "will have left", "had left"], "answer": 1 },
+    { "id": 18, "level": "C1", "q": "Not only ___ the exam, but she also got the highest score.", "options": ["she passed", "did she pass", "she did pass", "passed she"], "answer": 1 },
+    { "id": 19, "level": "C1", "q": "The new policy is likely to ___ widespread criticism.", "options": ["draw", "pull", "make", "take"], "answer": 0 },
+    { "id": 20, "level": "C1", "q": "Choose the most formal option: 'We need to ___ the issue before the meeting.'", "options": ["sort out", "look into", "address", "deal with it"], "answer": 2 }
+  ],
+  "bands": [
+    { "min": 0, "max": 5, "level": "A1" },
+    { "min": 6, "max": 9, "level": "A2" },
+    { "min": 10, "max": 13, "level": "B1" },
+    { "min": 14, "max": 17, "level": "B2" },
+    { "min": 18, "max": 20, "level": "C1" }
+  ],
+  "recommend": {
+    "A1": { "kids": ["english-foundation-kids"], "teens": ["english-foundation-kids", "english-conversation-grammar"], "adults": ["english-conversation-grammar"] },
+    "A2": { "kids": ["english-foundation-kids"], "teens": ["english-conversation-grammar"], "adults": ["english-conversation-grammar"] },
+    "B1": { "kids": ["english-conversation-grammar"], "teens": ["emsat-toefl-english", "english-conversation-grammar"], "adults": ["english-conversation-grammar", "ielts-preparation"] },
+    "B2": { "kids": ["english-conversation-grammar"], "teens": ["emsat-toefl-english", "ielts-preparation"], "adults": ["ielts-preparation", "business-english"] },
+    "C1": { "kids": ["english-conversation-grammar"], "teens": ["ielts-preparation"], "adults": ["business-english", "ielts-preparation"] }
+  }
+}

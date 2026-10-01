@@ -1,0 +1,29 @@
+[
+  {
+    "code": "AUTUMN25",
+    "type": "percent",
+    "value": 15,
+    "public": true,
+    "minSubtotal": 500,
+    "expiresAt": "2026-12-31",
+    "description": { "ar": "خصم ١٥٪ على الحجوزات من ٥٠٠ درهم فأكثر (عرض الخريف)", "en": "15% off bookings of 500 AED or more (autumn offer)" }
+  },
+  {
+    "code": "LANG100",
+    "type": "fixed",
+    "value": 100,
+    "public": true,
+    "minSubtotal": 800,
+    "categories": ["languages"],
+    "expiresAt": "2026-12-31",
+    "description": { "ar": "خصم ١٠٠ درهم على كورسات اللغات من ٨٠٠ درهم فأكثر", "en": "100 AED off language courses of 800 AED or more" }
+  },
+  {
+    "code": "WELCOME10",
+    "type": "percent",
+    "value": 10,
+    "public": false,
+    "expiresAt": "2027-06-30",
+    "description": { "ar": "خصم ترحيبي ١٠٪ (يُرسل للمشتركين في النشرة البريدية)", "en": "10% welcome discount (sent to newsletter subscribers)" }
+  }
+]

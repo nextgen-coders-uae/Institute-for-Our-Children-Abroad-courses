@@ -1,0 +1,126 @@
+{
+  "_comment": "Global site settings — contact info, WhatsApp number, discount rules, currency rates, announcement bar & offer countdown. Edit freely.",
+  "name": {
+    "ar": "كورسات أبناؤنا في الخارج",
+    "en": "Abnauona Courses"
+  },
+  "shortName": {
+    "ar": "كورسات أبناؤنا",
+    "en": "Abnauona Courses"
+  },
+  "parentInstitute": {
+    "name": {
+      "ar": "معهد أبناؤنا في الخارج",
+      "en": "Abnaona Institute Abroad"
+    },
+    "url": "https://abnaona-academy.com"
+  },
+  "contact": {
+    "address": {
+      "ar": "شارع التلة – عجمان – الإمارات العربية المتحدة",
+      "en": "Al Tallah Street – Ajman – United Arab Emirates"
+    },
+    "whatsapp": "971555515049",
+    "phones": [
+      {
+        "display": "06 5294 767",
+        "tel": "+97165294767"
+      },
+      {
+        "display": "055 5669 315",
+        "tel": "+971555669315"
+      },
+      {
+        "display": "055 5515 049",
+        "tel": "+971555515049"
+      }
+    ],
+    "email": "abnauna2021@yahoo.com",
+    "mapQuery": "Al Tallah, Ajman, United Arab Emirates",
+    "workingHours": {
+      "ar": "السبت – الخميس: ٩ صباحاً – ٩ مساءً",
+      "en": "Sat – Thu: 9 AM – 9 PM"
+    },
+    "geo": {
+      "lat": 25.3843,
+      "lng": 55.5005
+    }
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/",
+    "instagram": "https://www.instagram.com/",
+    "tiktok": "https://www.tiktok.com/",
+    "youtube": "https://www.youtube.com/"
+  },
+  "booking": {
+    "idPrefix": "ABC",
+    "currency": "AED"
+  },
+  "discounts": {
+    "_comment": "Percentages. Sibling discount applies to the 2nd trainee and 3rd+ trainees on the same course line.",
+    "siblingSecondPercent": 10,
+    "siblingThirdPlusPercent": 15,
+    "abnaonaStudentPercent": 10,
+    "earlyBirdPercent": 10,
+    "maxTotalDiscountPercent": 35
+  },
+  "currencies": {
+    "_comment": "How many units of each currency equal 1 AED (approximate — update periodically).",
+    "AED": 1,
+    "EGP": 13.2
+  },
+  "announcement": {
+    "enabled": true,
+    "text": {
+      "ar": "🎉 عرض الخريف: خصم حتى ٢٥٪ على باقات اللغات والتصميم والبرمجة — استخدم الكود AUTUMN25",
+      "en": "🎉 Autumn offer: up to 25% off language, design & coding bundles — use code AUTUMN25"
+    },
+    "href": "/packages"
+  },
+  "offer": {
+    "title": {
+      "ar": "عرض الخريف الكبير",
+      "en": "The Big Autumn Offer"
+    },
+    "text": {
+      "ar": "خصم حتى ٢٥٪ على باقات اللغات والتصميم الجرافيكي والبرمجة، واختبار تحديد مستوى مجاني — لفترة محدودة.",
+      "en": "Up to 25% off language, graphic design and coding bundles, plus a free placement test — for a limited time."
+    },
+    "endsAt": "2026-12-31T23:59:59+04:00",
+    "coupon": "AUTUMN25"
+  },
+  "stats": [
+    {
+      "value": 12,
+      "suffix": "+",
+      "label": {
+        "ar": "عاماً من خبرة معهد أبناؤنا",
+        "en": "Years of Abnaona experience"
+      }
+    },
+    {
+      "value": 5000,
+      "suffix": "+",
+      "label": {
+        "ar": "متدرب ومتدربة",
+        "en": "Trainees taught"
+      }
+    },
+    {
+      "value": 40,
+      "suffix": "+",
+      "label": {
+        "ar": "كورساً في مجالات متعددة",
+        "en": "Courses across fields"
+      }
+    },
+    {
+      "value": 98,
+      "suffix": "%",
+      "label": {
+        "ar": "نسبة رضا أولياء الأمور",
+        "en": "Parent satisfaction"
+      }
+    }
+  ]
+}

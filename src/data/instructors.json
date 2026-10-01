@@ -1,0 +1,439 @@
+[
+  {
+    "id": "nourhan-adel",
+    "featured": true,
+    "name": {
+      "ar": "أ. نورهان عادل",
+      "en": "Ms. Nourhan Adel"
+    },
+    "title": {
+      "ar": "مدربة لغة إنجليزية ومحضّرة IELTS",
+      "en": "English Trainer & IELTS Coach"
+    },
+    "bio": {
+      "ar": "مدربة معتمدة CELTA بخبرة تزيد عن ١٠ سنوات في تدريس الإنجليزية للأطفال والكبار، ساعدت مئات المتدربين على تحقيق Band 7+ في اختبار IELTS. (بيانات تجريبية – استبدلها بالبيانات الحقيقية)",
+      "en": "CELTA-certified trainer with 10+ years teaching English to kids and adults; has helped hundreds of trainees reach Band 7+ in IELTS. (Sample data – replace with real details)"
+    },
+    "specialties": [
+      {
+        "ar": "IELTS و TOEFL",
+        "en": "IELTS & TOEFL"
+      },
+      {
+        "ar": "إنجليزي الأطفال",
+        "en": "English for kids"
+      },
+      {
+        "ar": "الجرامر",
+        "en": "Grammar"
+      }
+    ],
+    "certifications": [
+      "CELTA",
+      "IELTS Examiner Training",
+      "TKT"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الإنجليزية",
+        "en": "English"
+      }
+    ],
+    "yearsExperience": 10
+  },
+  {
+    "id": "karim-mansour",
+    "featured": false,
+    "name": {
+      "ar": "أ. كريم منصور",
+      "en": "Mr. Karim Mansour"
+    },
+    "title": {
+      "ar": "مدرب محادثة و Business English",
+      "en": "Conversation & Business English Coach"
+    },
+    "bio": {
+      "ar": "عمل لسنوات في شركات متعددة الجنسيات بدبي، ويدرّب على المحادثة والعروض التقديمية والمراسلات المهنية بأسلوب عملي. (بيانات تجريبية)",
+      "en": "Spent years at multinational companies in Dubai; coaches conversation, presentations and business writing in a practical way. (Sample data)"
+    },
+    "specialties": [
+      {
+        "ar": "المحادثة",
+        "en": "Conversation"
+      },
+      {
+        "ar": "إنجليزي الأعمال",
+        "en": "Business English"
+      },
+      {
+        "ar": "مقابلات العمل",
+        "en": "Job interviews"
+      }
+    ],
+    "certifications": [
+      "TESOL",
+      "Cambridge BEC Trainer"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الإنجليزية",
+        "en": "English"
+      }
+    ],
+    "yearsExperience": 8
+  },
+  {
+    "id": "salma-fathy",
+    "featured": false,
+    "name": {
+      "ar": "أ. سلمى فتحي",
+      "en": "Ms. Salma Fathy"
+    },
+    "title": {
+      "ar": "مدربة لغة فرنسية",
+      "en": "French Language Trainer"
+    },
+    "bio": {
+      "ar": "خريجة قسم اللغة الفرنسية ومصحّحة معتمدة لاختبارات DELF، تدرّس الفرنسية للمدارس الدولية والكبار. (بيانات تجريبية)",
+      "en": "French-department graduate and certified DELF examiner, teaching French to international-school students and adults. (Sample data)"
+    },
+    "specialties": [
+      {
+        "ar": "الفرنسية للمبتدئين",
+        "en": "Beginner French"
+      },
+      {
+        "ar": "تحضير DELF",
+        "en": "DELF prep"
+      }
+    ],
+    "certifications": [
+      "DELF/DALF Examiner",
+      "Institut Français Training"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الفرنسية",
+        "en": "French"
+      },
+      {
+        "ar": "الإنجليزية",
+        "en": "English"
+      }
+    ],
+    "yearsExperience": 9
+  },
+  {
+    "id": "omar-hegazy",
+    "name": {
+      "ar": "أ. عمر حجازي",
+      "en": "Mr. Omar Hegazy"
+    },
+    "title": {
+      "ar": "مدرب لغة ألمانية",
+      "en": "German Language Trainer"
+    },
+    "bio": {
+      "ar": "درس وعمل في ألمانيا، ومتخصص في تحضير المتدربين لاختبارات جوته من A1 حتى B2. (بيانات تجريبية)",
+      "en": "Studied and worked in Germany; specialises in preparing trainees for Goethe exams from A1 to B2. (Sample data)"
+    },
+    "specialties": [
+      {
+        "ar": "الألمانية A1 – B2",
+        "en": "German A1 – B2"
+      },
+      {
+        "ar": "تحضير Goethe",
+        "en": "Goethe exam prep"
+      }
+    ],
+    "certifications": [
+      "Goethe-Zertifikat C1",
+      "DaF Teacher Training"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الألمانية",
+        "en": "German"
+      }
+    ],
+    "yearsExperience": 7
+  },
+  {
+    "id": "mariam-abdelrahman",
+    "featured": false,
+    "name": {
+      "ar": "أ. مريم عبد الرحمن",
+      "en": "Ms. Mariam Abdelrahman"
+    },
+    "title": {
+      "ar": "معلمة لغة عربية",
+      "en": "Arabic Language Teacher"
+    },
+    "bio": {
+      "ar": "خريجة كلية دار العلوم، ومتخصصة في تأسيس القراءة والكتابة للأطفال وتعليم العربية للناطقين بغيرها. (بيانات تجريبية)",
+      "en": "Dar Al-Uloom graduate; specialises in early reading & writing and teaching Arabic to non-native speakers. (Sample data)"
+    },
+    "specialties": [
+      {
+        "ar": "تأسيس القراءة والكتابة",
+        "en": "Early reading & writing"
+      },
+      {
+        "ar": "العربية للناطقين بغيرها",
+        "en": "Arabic for non-natives"
+      },
+      {
+        "ar": "الإملاء والخط",
+        "en": "Spelling & handwriting"
+      }
+    ],
+    "certifications": [
+      "B.A. Dar Al-Uloom",
+      "Teaching Arabic to Non-Natives Diploma"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الإنجليزية",
+        "en": "English"
+      }
+    ],
+    "yearsExperience": 12
+  },
+  {
+    "id": "youssef-samir",
+    "featured": true,
+    "name": {
+      "ar": "م. يوسف سمير",
+      "en": "Eng. Youssef Samir"
+    },
+    "title": {
+      "ar": "مدرب برمجة الأطفال ومهارات الكمبيوتر",
+      "en": "Kids Coding & Computer Skills Trainer"
+    },
+    "bio": {
+      "ar": "مهندس برمجيات ومدرب معتمد من Microsoft و ICDL، يحب تبسيط البرمجة للأطفال عبر الألعاب والمشاريع. (بيانات تجريبية)",
+      "en": "Software engineer and Microsoft/ICDL-certified trainer who loves making coding simple for kids through games and projects. (Sample data)"
+    },
+    "specialties": [
+      {
+        "ar": "Scratch و Python",
+        "en": "Scratch & Python"
+      },
+      {
+        "ar": "تطبيقات الموبايل للأطفال",
+        "en": "Mobile apps for kids"
+      },
+      {
+        "ar": "ICDL",
+        "en": "ICDL"
+      }
+    ],
+    "certifications": [
+      "Microsoft Certified Educator",
+      "ICDL Trainer",
+      "Adobe Certified Professional"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الإنجليزية",
+        "en": "English"
+      }
+    ],
+    "yearsExperience": 9
+  },
+  {
+    "id": "nadine-farouk",
+    "featured": true,
+    "name": {
+      "ar": "م. نادين فاروق",
+      "en": "Nadine Farouk"
+    },
+    "title": {
+      "ar": "مصممة جرافيك ومدربة Adobe معتمدة",
+      "en": "Graphic Designer & Adobe Certified Trainer"
+    },
+    "bio": {
+      "ar": "مصممة هويات بصرية عملت مع وكالات إعلانية في دبي والقاهرة، وتدرّب على Photoshop و Illustrator وتصميم السوشيال ميديا بأسلوب مشاريع حقيقية. (بيانات تجريبية)",
+      "en": "Brand designer who has worked with ad agencies in Dubai and Cairo; teaches Photoshop, Illustrator and social media design through real projects. (Sample data)"
+    },
+    "specialties": [
+      {
+        "ar": "الهوية البصرية",
+        "en": "Brand identity"
+      },
+      {
+        "ar": "تصميم السوشيال ميديا",
+        "en": "Social media design"
+      },
+      {
+        "ar": "Photoshop و Illustrator",
+        "en": "Photoshop & Illustrator"
+      }
+    ],
+    "certifications": [
+      "Adobe Certified Professional",
+      "Google UX Design Certificate"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الإنجليزية",
+        "en": "English"
+      }
+    ],
+    "yearsExperience": 9
+  },
+  {
+    "id": "ahmed-elsherif",
+    "featured": true,
+    "name": {
+      "ar": "م. أحمد الشريف",
+      "en": "Eng. Ahmed El-Sherif"
+    },
+    "title": {
+      "ar": "مطوّر ويب ومدرب برمجة وذكاء اصطناعي",
+      "en": "Web Developer, Coding & AI Trainer"
+    },
+    "bio": {
+      "ar": "مهندس برمجيات يعمل في تطوير المواقع والتطبيقات منذ أكثر من ١٠ سنوات، ويدرّب الناشئين والكبار على تطوير الويب و Python والذكاء الاصطناعي. (بيانات تجريبية)",
+      "en": "Software engineer building websites and apps for 10+ years; trains teens and adults in web development, Python and AI. (Sample data)"
+    },
+    "specialties": [
+      {
+        "ar": "تطوير المواقع",
+        "en": "Web development"
+      },
+      {
+        "ar": "JavaScript",
+        "en": "JavaScript"
+      },
+      {
+        "ar": "الذكاء الاصطناعي",
+        "en": "Artificial intelligence"
+      }
+    ],
+    "certifications": [
+      "AWS Certified Developer",
+      "Meta Front-End Developer Certificate"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الإنجليزية",
+        "en": "English"
+      }
+    ],
+    "yearsExperience": 11
+  },
+  {
+    "id": "heba-ramzy",
+    "name": {
+      "ar": "أ. هبة رمزي",
+      "en": "Ms. Heba Ramzy"
+    },
+    "title": {
+      "ar": "مدربة فنون وموسيقى",
+      "en": "Arts & Music Trainer"
+    },
+    "bio": {
+      "ar": "خريجة كلية التربية الموسيقية، تدرّس البيانو والأورج والرسم للأطفال بأسلوب يجمع بين المتعة والانضباط. (بيانات تجريبية)",
+      "en": "Music-education graduate teaching piano, keyboard and drawing to children with a blend of fun and discipline. (Sample data)"
+    },
+    "specialties": [
+      {
+        "ar": "بيانو وأورج",
+        "en": "Piano & keyboard"
+      },
+      {
+        "ar": "رسم الأطفال",
+        "en": "Kids drawing"
+      }
+    ],
+    "certifications": [
+      "ABRSM Grade 8",
+      "Art Education Diploma"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الإنجليزية",
+        "en": "English"
+      }
+    ],
+    "yearsExperience": 11
+  },
+  {
+    "id": "tarek-nabil",
+    "name": {
+      "ar": "أ. طارق نبيل",
+      "en": "Mr. Tarek Nabil"
+    },
+    "title": {
+      "ar": "مدرس رياضيات وعلوم ومدرب مهارات",
+      "en": "Math & Science Tutor, Skills Coach"
+    },
+    "bio": {
+      "ar": "مدرس أول رياضيات بخبرة طويلة في المنهج المصري، ومدرب معتمد في الخطابة والقيادة للنشء. (بيانات تجريبية)",
+      "en": "Senior math teacher with long experience in the Egyptian curriculum and a certified public-speaking & leadership coach for youth. (Sample data)"
+    },
+    "specialties": [
+      {
+        "ar": "رياضيات وعلوم",
+        "en": "Math & science"
+      },
+      {
+        "ar": "الخطابة والقيادة",
+        "en": "Public speaking & leadership"
+      }
+    ],
+    "certifications": [
+      "Toastmasters Educator",
+      "Egyptian MoE Senior Teacher"
+    ],
+    "languages": [
+      {
+        "ar": "العربية",
+        "en": "Arabic"
+      },
+      {
+        "ar": "الإنجليزية",
+        "en": "English"
+      }
+    ],
+    "yearsExperience": 15
+  }
+]

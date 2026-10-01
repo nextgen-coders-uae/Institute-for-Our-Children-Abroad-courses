@@ -1,0 +1,107 @@
+[
+  {
+    "id": "languages",
+    "icon": "papyrus",
+    "featured": true,
+    "theme": "lapis",
+    "name": {
+      "ar": "اللغات",
+      "en": "Languages"
+    },
+    "description": {
+      "ar": "الإنجليزية، الفرنسية، الألمانية والعربية — من التأسيس حتى الاحتراف والاختبارات الدولية.",
+      "en": "English, French, German & Arabic — from foundations to fluency and international exams."
+    }
+  },
+  {
+    "id": "graphic-design",
+    "icon": "eye",
+    "theme": "pharaoh",
+    "name": {
+      "ar": "التصميم الجرافيكي",
+      "en": "Graphic Design"
+    },
+    "description": {
+      "ar": "فوتوشوب وإليستريتور وكانفا: تصميم السوشيال ميديا والشعارات والهوية البصرية.",
+      "en": "Photoshop, Illustrator & Canva: social media, logos and brand identity."
+    }
+  },
+  {
+    "id": "programming",
+    "icon": "pyramid",
+    "theme": "royal",
+    "name": {
+      "ar": "البرمجة وتطوير التطبيقات",
+      "en": "Coding & App Development"
+    },
+    "description": {
+      "ar": "Scratch و Python وتطوير المواقع والتطبيقات والذكاء الاصطناعي — للأطفال والناشئين والكبار.",
+      "en": "Scratch, Python, web & app development and AI — for kids, teens and adults."
+    }
+  },
+  {
+    "id": "computer-skills",
+    "icon": "obelisk",
+    "theme": "nile",
+    "name": {
+      "ar": "مهارات الكمبيوتر و ICDL",
+      "en": "Computer Skills & ICDL"
+    },
+    "description": {
+      "ar": "أساسيات الحاسب وحزمة أوفيس والتحضير لشهادة ICDL.",
+      "en": "Computer basics, MS Office and ICDL certification prep."
+    }
+  },
+  {
+    "id": "arts",
+    "icon": "lotus",
+    "theme": "copper",
+    "name": {
+      "ar": "الرسم والفنون",
+      "en": "Drawing & Arts"
+    },
+    "description": {
+      "ar": "رسم وتلوين وأشغال فنية تنمّي خيال الطفل.",
+      "en": "Drawing, painting and crafts that grow imagination."
+    }
+  },
+  {
+    "id": "music",
+    "icon": "harp",
+    "theme": "royal",
+    "name": {
+      "ar": "الموسيقى",
+      "en": "Music"
+    },
+    "description": {
+      "ar": "كمان، بيانو وأورج مع قراءة النوتة الموسيقية.",
+      "en": "Violin, piano and keyboard with music reading."
+    }
+  },
+  {
+    "id": "academic",
+    "icon": "palette",
+    "theme": "gold",
+    "name": {
+      "ar": "التقوية الدراسية – المنهج المصري",
+      "en": "Egyptian Curriculum Tutoring"
+    },
+    "description": {
+      "ar": "رياضيات وعلوم ولغة عربية لطلاب المنهج المصري في الخارج.",
+      "en": "Math, science & Arabic for Egyptian-curriculum students abroad."
+    }
+  },
+  {
+    "id": "personal-skills",
+    "icon": "ankh",
+    "theme": "copper",
+    "name": {
+      "ar": "المهارات الشخصية",
+      "en": "Personal Skills"
+    },
+    "description": {
+      "ar": "الخطابة والقيادة وإدارة الوقت وبناء الثقة.",
+      "en": "Public speaking, leadership, time management & confidence."
+    }
+  }
+]

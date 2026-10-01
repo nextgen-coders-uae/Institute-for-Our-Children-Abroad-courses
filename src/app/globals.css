@@ -1,0 +1,216 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════════════════════
+   Abnauona Courses — Design tokens (modern Pharaonic identity)
+   Gold #C9A227/#E3B54A · Lapis #1E3A8A · Royal #3B2A7A
+   Copper #7A4A2E · Papyrus #F5ECD7 · Pharaoh red #A4243B
+   ═══════════════════════════════════════════════════════════════ */
+@theme {
+  --color-gold-50: #fdf8e8;
+  --color-gold-100: #f8ecc4;
+  --color-gold-200: #f0da8e;
+  --color-gold-300: #e3b54a;
+  --color-gold-400: #d6ab35;
+  --color-gold-500: #c9a227;
+  --color-gold-600: #a8841a;
+  --color-gold-700: #7f6312; /* gold text on light backgrounds (AA contrast) */
+  --color-gold-800: #5e490f;
+
+  --color-lapis-50: #eef2fb;
+  --color-lapis-100: #d9e2f6;
+  --color-lapis-200: #b3c4ec;
+  --color-lapis-400: #4b6cc4;
+  --color-lapis-500: #2e4fa6;
+  --color-lapis-600: #24449a;
+  --color-lapis-700: #1e3a8a;
+  --color-lapis-800: #172d6b;
+  --color-lapis-900: #11214f;
+  --color-lapis-950: #0a1533;
+
+  --color-royal-100: #e6e1f5;
+  --color-royal-300: #9c8bd6;
+  --color-royal-500: #5b45a8;
+  --color-royal-700: #3b2a7a;
+  --color-royal-900: #231852;
+
+  --color-copper-100: #f3e3d6;
+  --color-copper-300: #c99470;
+  --color-copper-500: #a0673f;
+  --color-copper-700: #7a4a2e;
+  --color-copper-900: #4a2c1b;
+
+  --color-papyrus-50: #fffcf5;
+  --color-papyrus-100: #fbf5e7;
+  --color-papyrus-200: #f5ecd7;
+  --color-papyrus-300: #ecdfbf;
+  --color-papyrus-400: #dfcc9f;
+
+  --color-pharaoh-100: #f8dde2;
+  --color-pharaoh-500: #c23a52;
+  --color-pharaoh-600: #a4243b;
+  --color-pharaoh-700: #861c30;
+
+  --color-nile-500: #0f766e;
+  --color-nile-700: #115e59;
+
+  --color-ink: #211a12;
+
+  --shadow-card: 0 1px 2px rgb(74 44 27 / 0.06), 0 8px 24px -12px rgb(74 44 27 / 0.18);
+  --shadow-glow: 0 10px 40px -10px rgb(201 162 39 / 0.55);
+
+  --animate-float: float 7s ease-in-out infinite;
+  --animate-shimmer: shimmer 3s linear infinite;
+  --animate-fade-up: fade-up 0.6s ease-out both;
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  @keyframes shimmer {
+    from { background-position: 200% 0; }
+    to { background-position: -200% 0; }
+  }
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
+
+/* Fonts switch with the document language (set by next/font variables on <html>) */
+@theme inline {
+  --font-sans: var(--app-font-body);
+  --font-display: var(--app-font-display);
+}
+
+:root {
+  --app-font-body: var(--font-cairo), var(--font-inter), system-ui, sans-serif;
+  --app-font-display: var(--font-reem), var(--font-cairo), serif;
+}
+html[lang="en"] {
+  --app-font-body: var(--font-inter), var(--font-cairo), system-ui, sans-serif;
+  --app-font-display: var(--font-cinzel), var(--font-inter), serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-papyrus-200 text-ink font-sans antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display;
+    text-wrap: balance;
+  }
+  html[lang="en"] h1, html[lang="en"] h2 {
+    letter-spacing: 0.01em;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-gold-500;
+  }
+  ::selection {
+    @apply bg-gold-300 text-ink;
+  }
+  input, select, textarea, button {
+    font: inherit;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Faint hieroglyph texture */
+  .bg-hieroglyphs {
+    background-image: url("/patterns/hieroglyphs.svg");
+    background-size: 220px 220px;
+  }
+  .bg-hieroglyphs-light {
+    background-image: url("/patterns/hieroglyphs-light.svg");
+    background-size: 220px 220px;
+  }
+
+  /* Gold gradient text */
+  .text-gold-gradient {
+    background: linear-gradient(90deg, #e3b54a, #f6dd8a 45%, #c9a227);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  /* Egyptian cornice / lotus frieze divider */
+  .frieze {
+    height: 14px;
+    background-image: url("/patterns/frieze.svg");
+    background-size: 56px 14px;
+    background-repeat: repeat-x;
+  }
+
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-bold transition duration-200 disabled:cursor-not-allowed disabled:opacity-50 whitespace-nowrap;
+  }
+  .btn-lg {
+    @apply px-7 py-3.5 text-base;
+  }
+  .btn-gold {
+    @apply bg-gradient-to-b from-gold-300 to-gold-500 text-ink shadow-glow hover:from-gold-200 hover:to-gold-400 active:scale-[0.98];
+  }
+  .btn-lapis {
+    @apply bg-lapis-700 text-white hover:bg-lapis-800 active:scale-[0.98];
+  }
+  .btn-outline {
+    @apply border-2 border-lapis-700/20 bg-white/60 text-lapis-800 hover:border-gold-500 hover:bg-white;
+  }
+  .btn-ghost-light {
+    @apply border border-white/30 bg-white/10 text-white backdrop-blur hover:bg-white/20;
+  }
+  .btn-whatsapp {
+    @apply bg-[#1f9d55] text-white hover:bg-[#188647] active:scale-[0.98];
+  }
+
+  /* Cards */
+  .card {
+    @apply rounded-3xl border border-gold-500/20 bg-papyrus-50 shadow-card;
+  }
+
+  /* Form fields */
+  .field {
+    @apply w-full rounded-xl border border-papyrus-400 bg-white px-4 py-2.5 text-ink placeholder:text-copper-700/50 transition focus:border-lapis-500 focus:outline-none focus:ring-4 focus:ring-lapis-500/15;
+  }
+  .field-error {
+    @apply border-pharaoh-600 focus:border-pharaoh-600 focus:ring-pharaoh-600/15;
+  }
+  .label {
+    @apply mb-1.5 block text-sm font-bold text-lapis-900;
+  }
+
+  /* Chips */
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-papyrus-400 bg-white/70 px-3 py-1.5 text-sm text-copper-900 transition hover:border-gold-500;
+  }
+  .chip-active {
+    @apply border-lapis-700 bg-lapis-700 text-white hover:border-lapis-700;
+  }
+
+  /* Rich text (blog / legal) */
+  .prose-egypt p { @apply my-4 leading-8 text-copper-900; }
+  .prose-egypt h2 { @apply mt-10 mb-3 text-2xl text-lapis-800; }
+  .prose-egypt ul { @apply my-4 list-disc space-y-2 ps-6 text-copper-900 marker:text-gold-500; }
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar { display: none; }
+}

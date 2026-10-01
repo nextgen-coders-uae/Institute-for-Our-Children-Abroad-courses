@@ -1,0 +1,1436 @@
+[
+  {
+    "id": "c-eng-kids",
+    "slug": "english-foundation-kids",
+    "category": "languages",
+    "language": "english",
+    "title": { "ar": "تأسيس اللغة الإنجليزية للأطفال", "en": "English Foundation for Kids" },
+    "subtitle": { "ar": "حروف، أصوات، كلمات وجمل أولى بطريقة Phonics الممتعة", "en": "Letters, sounds, first words & sentences with fun Phonics" },
+    "description": {
+      "ar": "كورس تأسيسي مصمم للأطفال من ٥ إلى ١٠ سنوات لبناء أساس قوي في اللغة الإنجليزية عبر طريقة Phonics والأغاني والألعاب التفاعلية. يتعلم الطفل نطق الحروف بشكل صحيح، وقراءة الكلمات البسيطة، وتكوين جمل قصيرة، مع متابعة أسبوعية لولي الأمر.",
+      "en": "A foundation course for children aged 5–10 that builds a strong English base through Phonics, songs and interactive games. Kids learn correct letter sounds, read simple words and form short sentences, with weekly progress updates for parents."
+    },
+    "instructorId": "nourhan-adel",
+    "level": "beginner",
+    "cefr": "Pre-A1 – A1",
+    "ageGroups": ["kids"],
+    "prices": {
+      "in-person": { "price": 650, "oldPrice": 800 },
+      "online": { "price": 550, "oldPrice": 650 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 16,
+    "sessionMinutes": 60,
+    "outcomes": [
+      { "ar": "نطق الحروف الإنجليزية الـ ٢٦ وأصواتها بشكل صحيح", "en": "Pronounce all 26 letters and their sounds correctly" },
+      { "ar": "قراءة كلمات من ثلاثة أحرف (CVC) بثقة", "en": "Read three-letter CVC words confidently" },
+      { "ar": "حصيلة ١٥٠+ كلمة من الحياة اليومية", "en": "A vocabulary of 150+ everyday words" },
+      { "ar": "تقديم نفسه والتحدث بجمل قصيرة", "en": "Introduce themselves and speak in short sentences" }
+    ],
+    "audience": [
+      { "ar": "الأطفال من ٥ إلى ١٠ سنوات", "en": "Children aged 5 to 10" },
+      { "ar": "من يحتاج تقوية الأساسيات قبل المدرسة", "en": "Kids who need to strengthen basics before school" }
+    ],
+    "requirements": [
+      { "ar": "لا يشترط أي معرفة سابقة", "en": "No prior knowledge required" },
+      { "ar": "كراسة وأقلام تلوين", "en": "A notebook and coloring pencils" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الوحدة ١: عالم الحروف", "en": "Unit 1: The World of Letters" }, "lessons": [
+        { "ar": "الحروف من A إلى M وأصواتها", "en": "Letters A–M and their sounds" },
+        { "ar": "الحروف من N إلى Z وأصواتها", "en": "Letters N–Z and their sounds" },
+        { "ar": "أغنية الحروف ومراجعة تفاعلية", "en": "Alphabet song & interactive review" }
+      ]},
+      { "title": { "ar": "الوحدة ٢: أول كلماتي", "en": "Unit 2: My First Words" }, "lessons": [
+        { "ar": "الألوان والأرقام", "en": "Colors and numbers" },
+        { "ar": "الحيوانات والفواكه", "en": "Animals and fruits" },
+        { "ar": "قراءة كلمات CVC", "en": "Reading CVC words" }
+      ]},
+      { "title": { "ar": "الوحدة ٣: أتكلم بثقة", "en": "Unit 3: I Speak with Confidence" }, "lessons": [
+        { "ar": "التعريف بنفسي وعائلتي", "en": "Introducing myself and my family" },
+        { "ar": "جمل الحياة اليومية", "en": "Everyday sentences" },
+        { "ar": "حفل التخرج وعرض المشروع", "en": "Graduation & project show" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "السبت والإثنين", "en": "Sat & Mon" }, "time": "16:00 – 17:00", "startDate": "2026-10-17", "seatsTotal": 10, "seatsLeft": 3, "earlyBirdUntil": "2026-10-10" },
+      { "id": "g2", "mode": "online", "days": { "ar": "الأحد والثلاثاء", "en": "Sun & Tue" }, "time": "18:00 – 19:00", "startDate": "2026-10-25", "seatsTotal": 8, "seatsLeft": 6 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يحتاج طفلي لمعرفة سابقة؟", "en": "Does my child need prior knowledge?" }, "a": { "ar": "لا، الكورس يبدأ من الصفر تماماً.", "en": "No, the course starts completely from scratch." } },
+      { "q": { "ar": "كيف أتابع مستوى طفلي؟", "en": "How can I follow my child's progress?" }, "a": { "ar": "نرسل تقريراً أسبوعياً مختصراً لولي الأمر عبر واتساب.", "en": "We send a short weekly report to parents via WhatsApp." } }
+    ],
+    "reviews": [
+      { "name": "أم يوسف", "rating": 5, "date": "2026-06-12", "text": { "ar": "ابني أصبح يقرأ الكلمات وحده بعد شهر واحد فقط!", "en": "My son started reading words on his own after just one month!" } },
+      { "name": "Ahmed K.", "rating": 5, "date": "2026-05-02", "text": { "ar": "أسلوب المدربة رائع والأطفال يحبون الحصص.", "en": "The trainer's style is great and kids love the classes." } }
+    ],
+    "rating": 4.9,
+    "studentsCount": 420,
+    "badges": ["bestseller"],
+    "certificate": true,
+    "publishedAt": "2025-09-01",
+    "popularity": 98
+  },
+  {
+    "id": "c-eng-conv",
+    "slug": "english-conversation-grammar",
+    "category": "languages",
+    "language": "english",
+    "title": { "ar": "المحادثة والجرامر الإنجليزي", "en": "English Conversation & Grammar" },
+    "subtitle": { "ar": "تكلّم الإنجليزية بطلاقة وقواعد سليمة في مواقف الحياة اليومية", "en": "Speak fluent, accurate English in real-life situations" },
+    "description": {
+      "ar": "كورس عملي يركز على كسر حاجز الخوف من التحدث، مع ترسيخ القواعد الأساسية والمتوسطة من خلال مواقف حقيقية: العمل، السفر، التسوق، المقابلات. كل حصة تحتوي على نشاط محادثة ثنائي وجماعي وتصحيح فوري للأخطاء.",
+      "en": "A practical course focused on breaking the fear of speaking while mastering essential and intermediate grammar through real situations: work, travel, shopping and interviews. Every session includes pair and group speaking with instant correction."
+    },
+    "instructorId": "karim-mansour",
+    "level": "intermediate",
+    "cefr": "A2 – B1",
+    "ageGroups": ["teens", "adults"],
+    "prices": {
+      "in-person": { "price": 900, "oldPrice": 1100 },
+      "online": { "price": 750, "oldPrice": 900 },
+      "recorded": { "price": 350 }
+    },
+    "durationWeeks": 10,
+    "sessionsCount": 20,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "إجراء محادثة يومية كاملة بثقة", "en": "Hold a full everyday conversation confidently" },
+      { "ar": "إتقان الأزمنة الأساسية واستخدامها بشكل صحيح", "en": "Master the main tenses and use them correctly" },
+      { "ar": "تحسين النطق والاستماع", "en": "Improve pronunciation and listening" },
+      { "ar": "التعبير عن الرأي والوصف والسرد", "en": "Express opinions, describe and narrate" }
+    ],
+    "audience": [
+      { "ar": "الطلاب والكبار بمستوى مبتدئ متقدم أو متوسط", "en": "Teens and adults at elementary–intermediate level" },
+      { "ar": "من يفهم الإنجليزية لكنه يتردد في التحدث", "en": "Those who understand English but hesitate to speak" }
+    ],
+    "requirements": [
+      { "ar": "مستوى A2 على الأقل (اختبار تحديد المستوى مجاني)", "en": "At least A2 level (free placement test available)" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الوحدة ١: كسر الحاجز", "en": "Unit 1: Breaking the Barrier" }, "lessons": [
+        { "ar": "التعارف والحديث عن النفس", "en": "Small talk & talking about yourself" },
+        { "ar": "المضارع البسيط والمستمر", "en": "Present simple vs continuous" },
+        { "ar": "طرح الأسئلة بطلاقة", "en": "Asking questions fluently" }
+      ]},
+      { "title": { "ar": "الوحدة ٢: الحكي والوصف", "en": "Unit 2: Stories & Descriptions" }, "lessons": [
+        { "ar": "الماضي البسيط والمستمر", "en": "Past simple & continuous" },
+        { "ar": "وصف الأشخاص والأماكن", "en": "Describing people & places" },
+        { "ar": "المضارع التام وتجارب الحياة", "en": "Present perfect & life experiences" }
+      ]},
+      { "title": { "ar": "الوحدة ٣: مواقف حقيقية", "en": "Unit 3: Real Situations" }, "lessons": [
+        { "ar": "في المطار والفندق", "en": "At the airport & hotel" },
+        { "ar": "مقابلة عمل تجريبية", "en": "Mock job interview" },
+        { "ar": "مناظرة ختامية", "en": "Final debate" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "الأحد والأربعاء", "en": "Sun & Wed" }, "time": "19:00 – 20:30", "startDate": "2026-10-18", "seatsTotal": 12, "seatsLeft": 5, "earlyBirdUntil": "2026-10-11" },
+      { "id": "g2", "mode": "online", "days": { "ar": "الإثنين والخميس", "en": "Mon & Thu" }, "time": "20:00 – 21:30", "startDate": "2026-10-20", "seatsTotal": 12, "seatsLeft": 9 }
+    ],
+    "faq": [
+      { "q": { "ar": "ما الفرق بين الأونلاين والمسجّل؟", "en": "What's the difference between online and recorded?" }, "a": { "ar": "الأونلاين حصص مباشرة تفاعلية مع المدرب، والمسجّل فيديوهات تشاهدها في أي وقت مع جلسة أسئلة شهرية.", "en": "Online is live interactive classes; recorded is on-demand videos plus a monthly Q&A session." } },
+      { "q": { "ar": "هل توجد شهادة؟", "en": "Is there a certificate?" }, "a": { "ar": "نعم، شهادة إتمام معتمدة من معهد أبناؤنا قابلة للتحقق عبر الموقع.", "en": "Yes, a completion certificate from Abnaona Institute, verifiable on this website." } }
+    ],
+    "reviews": [
+      { "name": "Mona S.", "rating": 5, "date": "2026-04-20", "text": { "ar": "أول مرة أتكلم إنجليزي بدون خوف. شكراً أ. كريم!", "en": "First time I speak English without fear. Thanks Mr. Karim!" } },
+      { "name": "محمد عاطف", "rating": 4, "date": "2026-03-11", "text": { "ar": "كورس ممتاز والمجموعة صغيرة ومتفاعلة.", "en": "Excellent course with a small, active group." } }
+    ],
+    "rating": 4.8,
+    "studentsCount": 610,
+    "badges": ["bestseller"],
+    "certificate": true,
+    "publishedAt": "2025-06-15",
+    "popularity": 95
+  },
+  {
+    "id": "c-business-eng",
+    "slug": "business-english",
+    "category": "languages",
+    "language": "english",
+    "title": { "ar": "إنجليزي الأعمال Business English", "en": "Business English" },
+    "subtitle": { "ar": "الإيميلات، الاجتماعات، العروض التقديمية والتفاوض", "en": "Emails, meetings, presentations & negotiation" },
+    "description": {
+      "ar": "كورس احترافي للموظفين ورواد الأعمال في الإمارات، يغطي المراسلات الرسمية وإدارة الاجتماعات والعروض التقديمية والتفاوض، مع دراسات حالة من بيئة العمل الخليجية.",
+      "en": "A professional course for employees and entrepreneurs in the UAE covering formal writing, meetings, presentations and negotiation, with case studies from the Gulf workplace."
+    },
+    "instructorId": "karim-mansour",
+    "level": "advanced",
+    "cefr": "B2 – C1",
+    "ageGroups": ["adults"],
+    "prices": {
+      "online": { "price": 1200, "oldPrice": 1450 },
+      "in-person": { "price": 1350 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 16,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "كتابة إيميلات وتقارير احترافية", "en": "Write professional emails and reports" },
+      { "ar": "إدارة الاجتماعات والمشاركة فيها بثقة", "en": "Lead and take part in meetings confidently" },
+      { "ar": "تقديم عروض تقديمية مقنعة", "en": "Deliver persuasive presentations" },
+      { "ar": "مهارات التفاوض والإقناع", "en": "Negotiation and persuasion skills" }
+    ],
+    "audience": [
+      { "ar": "الموظفون ورواد الأعمال", "en": "Employees and entrepreneurs" },
+      { "ar": "الباحثون عن عمل في الشركات الدولية", "en": "Job seekers targeting international companies" }
+    ],
+    "requirements": [
+      { "ar": "مستوى B1 أو أعلى", "en": "B1 level or above" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الوحدة ١: الكتابة المهنية", "en": "Unit 1: Professional Writing" }, "lessons": [
+        { "ar": "هيكل الإيميل الرسمي", "en": "Formal email structure" },
+        { "ar": "كتابة التقارير المختصرة", "en": "Writing short reports" },
+        { "ar": "نبرة الكتابة وأخطاء شائعة", "en": "Tone & common mistakes" }
+      ]},
+      { "title": { "ar": "الوحدة ٢: الاجتماعات والعروض", "en": "Unit 2: Meetings & Presentations" }, "lessons": [
+        { "ar": "لغة الاجتماعات", "en": "Meeting language" },
+        { "ar": "بناء عرض تقديمي قوي", "en": "Building a strong presentation" },
+        { "ar": "التعامل مع الأسئلة الصعبة", "en": "Handling tough questions" }
+      ]},
+      { "title": { "ar": "الوحدة ٣: التفاوض", "en": "Unit 3: Negotiation" }, "lessons": [
+        { "ar": "استراتيجيات التفاوض", "en": "Negotiation strategies" },
+        { "ar": "محاكاة صفقة حقيقية", "en": "Real-deal simulation" },
+        { "ar": "مشروع التخرج", "en": "Capstone project" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "online", "days": { "ar": "الثلاثاء والخميس", "en": "Tue & Thu" }, "time": "20:30 – 22:00", "startDate": "2026-11-03", "seatsTotal": 10, "seatsLeft": 7, "earlyBirdUntil": "2026-10-25" }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يناسب الكورس المبتدئين؟", "en": "Is this suitable for beginners?" }, "a": { "ar": "لا، يُنصح بمستوى B1 على الأقل. جرّب اختبار تحديد المستوى المجاني.", "en": "No, B1 or above is recommended. Try our free placement test." } }
+    ],
+    "reviews": [
+      { "name": "Rania H.", "rating": 5, "date": "2026-02-08", "text": { "ar": "ساعدني جداً في اجتماعات العمل مع الإدارة الأجنبية.", "en": "Helped me a lot in meetings with foreign management." } }
+    ],
+    "rating": 4.8,
+    "studentsCount": 180,
+    "badges": [],
+    "certificate": true,
+    "publishedAt": "2026-01-10",
+    "popularity": 70
+  },
+  {
+    "id": "c-ielts",
+    "slug": "ielts-preparation",
+    "category": "languages",
+    "language": "english",
+    "title": { "ar": "التحضير لاختبار IELTS", "en": "IELTS Preparation" },
+    "subtitle": { "ar": "استراتيجيات المهارات الأربع ونماذج اختبارات كاملة للوصول إلى Band 7+", "en": "Four-skill strategies & full mock tests to reach Band 7+" },
+    "description": {
+      "ar": "برنامج مكثف للتحضير لاختبار IELTS الأكاديمي والعام، يشمل Listening و Reading و Writing و Speaking مع ٤ اختبارات تجريبية كاملة وتصحيح فردي لمهام الكتابة وجلسات Speaking فردية.",
+      "en": "An intensive programme for IELTS Academic and General Training covering Listening, Reading, Writing and Speaking, with 4 full mock tests, individual writing feedback and one-to-one speaking sessions."
+    },
+    "instructorId": "nourhan-adel",
+    "level": "advanced",
+    "cefr": "B1 – C1",
+    "ageGroups": ["teens", "adults"],
+    "prices": {
+      "in-person": { "price": 1500, "oldPrice": 1800 },
+      "online": { "price": 1300, "oldPrice": 1550 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 24,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "فهم شكل الاختبار ومعايير التقييم", "en": "Understand the test format and band descriptors" },
+      { "ar": "استراتيجيات مجرّبة لكل مهارة", "en": "Proven strategies for every skill" },
+      { "ar": "كتابة Task 1 و Task 2 بمستوى Band 7", "en": "Write Task 1 & Task 2 at Band 7 level" },
+      { "ar": "٤ اختبارات تجريبية كاملة بتصحيح مفصل", "en": "4 full mock tests with detailed marking" }
+    ],
+    "audience": [
+      { "ar": "المتقدمون للجامعات أو الهجرة أو العمل", "en": "Applicants for university, immigration or work" },
+      { "ar": "طلاب الثانوية المتقدمون لجامعات دولية", "en": "High-school students applying to international universities" }
+    ],
+    "requirements": [
+      { "ar": "مستوى B1 على الأقل", "en": "At least B1 level" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الوحدة ١: Listening & Reading", "en": "Unit 1: Listening & Reading" }, "lessons": [
+        { "ar": "أنواع الأسئلة واستراتيجيات الحل", "en": "Question types & strategies" },
+        { "ar": "Skimming و Scanning", "en": "Skimming & scanning" },
+        { "ar": "اختبار تجريبي ١", "en": "Mock test 1" }
+      ]},
+      { "title": { "ar": "الوحدة ٢: Writing", "en": "Unit 2: Writing" }, "lessons": [
+        { "ar": "Task 1: الرسوم البيانية والخطابات", "en": "Task 1: charts & letters" },
+        { "ar": "Task 2: المقال الأكاديمي", "en": "Task 2: the essay" },
+        { "ar": "تصحيح فردي ومعايير التقييم", "en": "Individual feedback & band criteria" }
+      ]},
+      { "title": { "ar": "الوحدة ٣: Speaking", "en": "Unit 3: Speaking" }, "lessons": [
+        { "ar": "الأجزاء الثلاثة للمحادثة", "en": "The three speaking parts" },
+        { "ar": "جلسات فردية مسجلة", "en": "Recorded one-to-one sessions" },
+        { "ar": "الاختبار التجريبي النهائي", "en": "Final mock exam" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "السبت والإثنين والأربعاء", "en": "Sat, Mon & Wed" }, "time": "18:00 – 19:30", "startDate": "2026-10-10", "seatsTotal": 10, "seatsLeft": 2 },
+      { "id": "g2", "mode": "online", "days": { "ar": "الأحد والثلاثاء والخميس", "en": "Sun, Tue & Thu" }, "time": "21:00 – 22:30", "startDate": "2026-11-01", "seatsTotal": 12, "seatsLeft": 8, "earlyBirdUntil": "2026-10-20" }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يشمل الكورس رسوم الاختبار الرسمي؟", "en": "Does the fee include the official exam fee?" }, "a": { "ar": "لا، رسوم الاختبار تُدفع لمركز الاختبار (British Council أو IDP)، ونساعدك في التسجيل.", "en": "No, the exam fee is paid to the test centre (British Council or IDP); we help you register." } },
+      { "q": { "ar": "هل يغطي الأكاديمي والعام؟", "en": "Does it cover Academic and General?" }, "a": { "ar": "نعم، مع تمارين مخصصة لكل نوع.", "en": "Yes, with dedicated practice for each." } }
+    ],
+    "reviews": [
+      { "name": "Omar T.", "rating": 5, "date": "2026-07-01", "text": { "ar": "حصلت على Band 7.5 من أول محاولة!", "en": "Got Band 7.5 on my first attempt!" } },
+      { "name": "سارة م.", "rating": 5, "date": "2026-05-17", "text": { "ar": "التصحيح الفردي للكتابة فرق معي جداً.", "en": "The individual writing feedback made a huge difference." } }
+    ],
+    "rating": 4.9,
+    "studentsCount": 350,
+    "badges": ["bestseller"],
+    "certificate": true,
+    "publishedAt": "2025-08-20",
+    "popularity": 97
+  },
+  {
+    "id": "c-emsat",
+    "slug": "emsat-toefl-english",
+    "category": "languages",
+    "language": "english",
+    "title": { "ar": "التحضير لاختبار EmSAT و TOEFL", "en": "EmSAT & TOEFL English Prep" },
+    "subtitle": { "ar": "استعد لاختبارات القبول الجامعي في الإمارات والخارج", "en": "Get ready for university admission tests in the UAE and abroad" },
+    "description": {
+      "ar": "كورس موجّه لطلاب الثانوية في الإمارات للتحضير لاختبار EmSAT English (وTOEFL iBT)، مع بنك أسئلة محدث واختبارات محاكاة بالتوقيت الفعلي.",
+      "en": "Designed for UAE high-school students preparing for EmSAT English (and TOEFL iBT), with an updated question bank and timed simulation tests."
+    },
+    "instructorId": "nourhan-adel",
+    "level": "intermediate",
+    "cefr": "B1 – B2",
+    "ageGroups": ["teens"],
+    "prices": {
+      "in-person": { "price": 1100, "oldPrice": 1300 },
+      "online": { "price": 950 }
+    },
+    "durationWeeks": 6,
+    "sessionsCount": 18,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "فهم أقسام اختبار EmSAT و TOEFL", "en": "Understand EmSAT & TOEFL sections" },
+      { "ar": "حل أسئلة القواعد والمفردات بسرعة", "en": "Solve grammar & vocabulary questions quickly" },
+      { "ar": "إدارة الوقت أثناء الاختبار", "en": "Manage time during the test" },
+      { "ar": "رفع الدرجة المتوقعة بشكل ملحوظ", "en": "Noticeably raise the expected score" }
+    ],
+    "audience": [
+      { "ar": "طلاب الصف الحادي عشر والثاني عشر", "en": "Grade 11 & 12 students" }
+    ],
+    "requirements": [
+      { "ar": "مستوى متوسط في الإنجليزية", "en": "Intermediate English level" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الوحدة ١: القواعد والمفردات", "en": "Unit 1: Grammar & Vocabulary" }, "lessons": [
+        { "ar": "أهم القواعد المتكررة", "en": "Most frequent grammar points" },
+        { "ar": "مفردات أكاديمية", "en": "Academic vocabulary" },
+        { "ar": "اختبار قصير", "en": "Quiz" }
+      ]},
+      { "title": { "ar": "الوحدة ٢: القراءة والكتابة", "en": "Unit 2: Reading & Writing" }, "lessons": [
+        { "ar": "استراتيجيات القراءة السريعة", "en": "Speed-reading strategies" },
+        { "ar": "كتابة المقال القصير", "en": "Writing the short essay" },
+        { "ar": "محاكاة كاملة", "en": "Full simulation" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "الإثنين والأربعاء والخميس", "en": "Mon, Wed & Thu" }, "time": "17:00 – 18:30", "startDate": "2026-10-12", "seatsTotal": 12, "seatsLeft": 0 },
+      { "id": "g2", "mode": "online", "days": { "ar": "السبت والأحد والثلاثاء", "en": "Sat, Sun & Tue" }, "time": "19:00 – 20:30", "startDate": "2026-10-31", "seatsTotal": 12, "seatsLeft": 4 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يوجد بنك أسئلة؟", "en": "Is there a question bank?" }, "a": { "ar": "نعم، يحصل كل متدرب على بنك أسئلة محدث وملفات PDF.", "en": "Yes, every trainee gets an updated question bank and PDF files." } }
+    ],
+    "reviews": [
+      { "name": "Layla A.", "rating": 5, "date": "2026-06-30", "text": { "ar": "ارتفعت درجتي من 1050 إلى 1475.", "en": "My score went up from 1050 to 1475." } }
+    ],
+    "rating": 4.7,
+    "studentsCount": 210,
+    "badges": ["new"],
+    "certificate": true,
+    "publishedAt": "2026-08-25",
+    "popularity": 80
+  },
+  {
+    "id": "c-french-a1",
+    "slug": "french-for-beginners",
+    "category": "languages",
+    "language": "french",
+    "title": { "ar": "اللغة الفرنسية للمبتدئين (A1)", "en": "French for Beginners (A1)" },
+    "subtitle": { "ar": "ابدأ رحلتك مع الفرنسية بثقة: نطق، مفردات، ومحادثات أساسية", "en": "Start French with confidence: pronunciation, vocabulary & basic conversation" },
+    "description": {
+      "ar": "كورس ممتع يعرّفك على أساسيات الفرنسية: الحروف والنطق، التحيات، الأرقام، الوصف، والمحادثات اليومية البسيطة، وفق الإطار الأوروبي المرجعي CEFR مستوى A1. مناسب أيضاً لطلاب المدارس الذين يدرسون الفرنسية كلغة ثانية.",
+      "en": "A fun course covering French essentials: alphabet & pronunciation, greetings, numbers, descriptions and simple daily conversations, aligned with CEFR A1. Also great for school students studying French as a second language."
+    },
+    "instructorId": "salma-fathy",
+    "level": "beginner",
+    "cefr": "A1",
+    "ageGroups": ["kids", "teens", "adults"],
+    "prices": {
+      "in-person": { "price": 800, "oldPrice": 950 },
+      "online": { "price": 700 },
+      "recorded": { "price": 300 }
+    },
+    "durationWeeks": 10,
+    "sessionsCount": 20,
+    "sessionMinutes": 75,
+    "outcomes": [
+      { "ar": "النطق الصحيح للأصوات الفرنسية", "en": "Correct pronunciation of French sounds" },
+      { "ar": "التعريف بالنفس والتحيات", "en": "Introductions and greetings" },
+      { "ar": "الأرقام والوقت والتواريخ", "en": "Numbers, time and dates" },
+      { "ar": "محادثات بسيطة في المطعم والسوق", "en": "Simple conversations at restaurants and shops" }
+    ],
+    "audience": [
+      { "ar": "المبتدئون تماماً من كل الأعمار", "en": "Complete beginners of all ages" },
+      { "ar": "طلاب المدارس الدولية", "en": "International-school students" }
+    ],
+    "requirements": [
+      { "ar": "لا يشترط معرفة سابقة", "en": "No prior knowledge" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "Unité 1: Bonjour!", "en": "Unité 1: Bonjour!" }, "lessons": [
+        { "ar": "الحروف والنطق", "en": "Alphabet & pronunciation" },
+        { "ar": "التحيات والتعارف", "en": "Greetings & introductions" },
+        { "ar": "الأرقام ١–١٠٠", "en": "Numbers 1–100" }
+      ]},
+      { "title": { "ar": "Unité 2: Ma vie", "en": "Unité 2: Ma vie" }, "lessons": [
+        { "ar": "العائلة والمنزل", "en": "Family & home" },
+        { "ar": "الأفعال في المضارع", "en": "Present-tense verbs" },
+        { "ar": "الروتين اليومي", "en": "Daily routine" }
+      ]},
+      { "title": { "ar": "Unité 3: En ville", "en": "Unité 3: En ville" }, "lessons": [
+        { "ar": "في المطعم", "en": "At the restaurant" },
+        { "ar": "الاتجاهات والمواصلات", "en": "Directions & transport" },
+        { "ar": "اختبار A1 تجريبي", "en": "A1 mock test" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "السبت والثلاثاء", "en": "Sat & Tue" }, "time": "17:30 – 18:45", "startDate": "2026-10-24", "seatsTotal": 10, "seatsLeft": 6, "earlyBirdUntil": "2026-10-15" },
+      { "id": "g2", "mode": "online", "days": { "ar": "الأحد والأربعاء", "en": "Sun & Wed" }, "time": "20:00 – 21:15", "startDate": "2026-11-01", "seatsTotal": 10, "seatsLeft": 10 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يؤهلني الكورس لاختبار DELF A1؟", "en": "Will this prepare me for DELF A1?" }, "a": { "ar": "نعم، المحتوى متوافق مع متطلبات DELF A1 مع اختبار تجريبي في النهاية.", "en": "Yes, content matches DELF A1 with a mock exam at the end." } }
+    ],
+    "reviews": [
+      { "name": "Nada F.", "rating": 5, "date": "2026-03-25", "text": { "ar": "الأستاذة سلمى صبورة جداً وشرحها واضح.", "en": "Ms. Salma is very patient and explains clearly." } }
+    ],
+    "rating": 4.8,
+    "studentsCount": 190,
+    "badges": [],
+    "certificate": true,
+    "publishedAt": "2025-11-05",
+    "popularity": 75
+  },
+  {
+    "id": "c-german-a1",
+    "slug": "german-a1",
+    "category": "languages",
+    "language": "german",
+    "title": { "ar": "اللغة الألمانية A1", "en": "German A1" },
+    "subtitle": { "ar": "خطوتك الأولى نحو الدراسة والعمل في ألمانيا", "en": "Your first step towards studying and working in Germany" },
+    "description": {
+      "ar": "كورس شامل لمستوى A1 وفق منهج معهد جوته، يغطي القواعد الأساسية والمفردات والمهارات الأربع مع تدريب مكثف على شكل اختبار Goethe-Zertifikat A1.",
+      "en": "A complete A1 course following the Goethe curriculum, covering basic grammar, vocabulary and all four skills with intensive practice for the Goethe-Zertifikat A1 exam."
+    },
+    "instructorId": "omar-hegazy",
+    "level": "beginner",
+    "cefr": "A1",
+    "ageGroups": ["teens", "adults"],
+    "prices": {
+      "online": { "price": 950, "oldPrice": 1150 },
+      "in-person": { "price": 1050 }
+    },
+    "durationWeeks": 12,
+    "sessionsCount": 24,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "فهم واستخدام التعبيرات اليومية", "en": "Understand and use everyday expressions" },
+      { "ar": "إتقان قواعد A1 الأساسية", "en": "Master core A1 grammar" },
+      { "ar": "كتابة رسائل قصيرة", "en": "Write short messages" },
+      { "ar": "الاستعداد لاختبار Goethe A1", "en": "Be ready for the Goethe A1 exam" }
+    ],
+    "audience": [
+      { "ar": "الراغبون في الدراسة أو العمل في ألمانيا", "en": "Those planning to study or work in Germany" },
+      { "ar": "طلاب يدرسون الألمانية في المدرسة", "en": "Students learning German at school" }
+    ],
+    "requirements": [
+      { "ar": "لا يشترط معرفة سابقة", "en": "No prior knowledge" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "Kapitel 1–4", "en": "Kapitel 1–4" }, "lessons": [
+        { "ar": "التعارف والأرقام", "en": "Introductions & numbers" },
+        { "ar": "العائلة والأصدقاء", "en": "Family & friends" },
+        { "ar": "أدوات التعريف والجمع", "en": "Articles & plurals" }
+      ]},
+      { "title": { "ar": "Kapitel 5–8", "en": "Kapitel 5–8" }, "lessons": [
+        { "ar": "المواعيد والوقت", "en": "Appointments & time" },
+        { "ar": "الأفعال المنفصلة", "en": "Separable verbs" },
+        { "ar": "التسوق والطعام", "en": "Shopping & food" }
+      ]},
+      { "title": { "ar": "التحضير للاختبار", "en": "Exam preparation" }, "lessons": [
+        { "ar": "Hören & Lesen", "en": "Hören & Lesen" },
+        { "ar": "Schreiben & Sprechen", "en": "Schreiben & Sprechen" },
+        { "ar": "اختبار تجريبي كامل", "en": "Full mock exam" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "online", "days": { "ar": "السبت والإثنين", "en": "Sat & Mon" }, "time": "20:00 – 21:30", "startDate": "2026-10-19", "seatsTotal": 12, "seatsLeft": 5, "earlyBirdUntil": "2026-10-12" }
+    ],
+    "faq": [
+      { "q": { "ar": "كم أحتاج للوصول إلى B1؟", "en": "How long to reach B1?" }, "a": { "ar": "عادة ٩–١٢ شهراً عبر مستويات A1 ثم A2 ثم B1.", "en": "Usually 9–12 months through A1, A2 then B1." } }
+    ],
+    "reviews": [
+      { "name": "Hossam R.", "rating": 5, "date": "2026-04-02", "text": { "ar": "نجحت في Goethe A1 بتقدير sehr gut.", "en": "Passed Goethe A1 with 'sehr gut'." } }
+    ],
+    "rating": 4.7,
+    "studentsCount": 140,
+    "badges": ["new"],
+    "certificate": true,
+    "publishedAt": "2026-09-01",
+    "popularity": 72
+  },
+  {
+    "id": "c-arabic-kids",
+    "slug": "arabic-reading-writing-kids",
+    "category": "languages",
+    "language": "arabic",
+    "title": { "ar": "تأسيس وتقوية اللغة العربية للأطفال", "en": "Arabic Reading & Writing for Kids" },
+    "subtitle": { "ar": "قراءة وكتابة وإملاء بطريقة نور البيان والقصص المصورة", "en": "Reading, writing & dictation with Noor Al-Bayan and picture stories" },
+    "description": {
+      "ar": "برنامج متكامل لأبناء الجالية في الخارج لتأسيس القراءة والكتابة باللغة العربية وتقوية الإملاء والخط، مع أنشطة قصصية تربط الطفل بلغته وهويته.",
+      "en": "A complete programme for expat children to build Arabic reading and writing and strengthen spelling and handwriting, with story activities that connect kids to their language and identity."
+    },
+    "instructorId": "mariam-abdelrahman",
+    "level": "beginner",
+    "cefr": "",
+    "ageGroups": ["kids"],
+    "prices": {
+      "in-person": { "price": 550, "oldPrice": 650 },
+      "online": { "price": 480 }
+    },
+    "durationWeeks": 10,
+    "sessionsCount": 20,
+    "sessionMinutes": 60,
+    "outcomes": [
+      { "ar": "التعرف على الحروف بأشكالها وحركاتها", "en": "Recognise letters in all forms with vowel marks" },
+      { "ar": "قراءة كلمات وجمل بطلاقة", "en": "Read words and sentences fluently" },
+      { "ar": "كتابة صحيحة وخط واضح", "en": "Correct writing and clear handwriting" },
+      { "ar": "حب القراءة والقصص العربية", "en": "A love of Arabic reading and stories" }
+    ],
+    "audience": [
+      { "ar": "الأطفال من ٥ إلى ١٢ سنة", "en": "Children aged 5 to 12" },
+      { "ar": "أبناء الجالية الدارسين في مدارس أجنبية", "en": "Expat kids in foreign-curriculum schools" }
+    ],
+    "requirements": [
+      { "ar": "لا يشترط", "en": "None" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "المرحلة ١: الحروف والحركات", "en": "Stage 1: Letters & vowels" }, "lessons": [
+        { "ar": "الحروف المتشابهة", "en": "Similar letters" },
+        { "ar": "الفتحة والضمة والكسرة", "en": "Short vowels" },
+        { "ar": "المدود والتنوين", "en": "Long vowels & tanween" }
+      ]},
+      { "title": { "ar": "المرحلة ٢: القراءة", "en": "Stage 2: Reading" }, "lessons": [
+        { "ar": "الكلمات والجمل", "en": "Words & sentences" },
+        { "ar": "القصص المصورة", "en": "Picture stories" },
+        { "ar": "اللام الشمسية والقمرية", "en": "Sun & moon letters" }
+      ]},
+      { "title": { "ar": "المرحلة ٣: الكتابة والإملاء", "en": "Stage 3: Writing & dictation" }, "lessons": [
+        { "ar": "التاء المربوطة والمفتوحة", "en": "Taa marbuta & maftuha" },
+        { "ar": "الهمزات", "en": "Hamza rules" },
+        { "ar": "تعبير قصير", "en": "Short composition" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "الجمعة والأحد", "en": "Fri & Sun" }, "time": "10:00 – 11:00", "startDate": "2026-10-16", "seatsTotal": 10, "seatsLeft": 4 },
+      { "id": "g2", "mode": "online", "days": { "ar": "السبت والثلاثاء", "en": "Sat & Tue" }, "time": "17:00 – 18:00", "startDate": "2026-10-24", "seatsTotal": 8, "seatsLeft": 5 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يناسب الأطفال الذين لا يتحدثون العربية جيداً؟", "en": "Is it suitable for kids who barely speak Arabic?" }, "a": { "ar": "نعم، نبدأ من مستوى الطفل ونستخدم الصور والأنشطة.", "en": "Yes, we start from the child's level using pictures and activities." } }
+    ],
+    "reviews": [
+      { "name": "أم ليان", "rating": 5, "date": "2026-05-22", "text": { "ar": "بنتي صارت تقرأ القصص العربية وحدها، شكراً لكم.", "en": "My daughter now reads Arabic stories on her own, thank you." } }
+    ],
+    "rating": 4.9,
+    "studentsCount": 380,
+    "badges": ["bestseller"],
+    "certificate": true,
+    "publishedAt": "2025-05-01",
+    "popularity": 90
+  },
+  {
+    "id": "c-arabic-non-native",
+    "slug": "arabic-for-non-native-speakers",
+    "category": "languages",
+    "language": "arabic",
+    "title": { "ar": "العربية للناطقين بغيرها", "en": "Arabic for Non-Native Speakers" },
+    "subtitle": { "ar": "تعلّم العربية الفصحى واللهجة الإماراتية للحياة والعمل", "en": "Learn Modern Standard Arabic & Emirati dialect for life and work" },
+    "description": {
+      "ar": "كورس للمقيمين غير الناطقين بالعربية في الإمارات، يجمع بين أساسيات الفصحى (القراءة والكتابة) واللهجة المحلية للتواصل اليومي في العمل والتسوق والمواصلات.",
+      "en": "For non-Arabic-speaking residents of the UAE, combining Modern Standard Arabic basics (reading & writing) with local dialect for everyday communication at work, shopping and commuting."
+    },
+    "instructorId": "mariam-abdelrahman",
+    "level": "beginner",
+    "cefr": "A1 – A2",
+    "ageGroups": ["adults"],
+    "prices": {
+      "online": { "price": 850, "oldPrice": 1000 },
+      "recorded": { "price": 390 }
+    },
+    "durationWeeks": 10,
+    "sessionsCount": 20,
+    "sessionMinutes": 60,
+    "outcomes": [
+      { "ar": "قراءة وكتابة الحروف العربية", "en": "Read and write the Arabic script" },
+      { "ar": "عبارات التواصل اليومي", "en": "Everyday communication phrases" },
+      { "ar": "فهم اللافتات والقوائم", "en": "Understand signs and menus" },
+      { "ar": "إجراء محادثات قصيرة", "en": "Hold short conversations" }
+    ],
+    "audience": [
+      { "ar": "المقيمون الأجانب في الإمارات", "en": "Foreign residents in the UAE" },
+      { "ar": "الموظفون المتعاملون مع العملاء العرب", "en": "Employees dealing with Arab customers" }
+    ],
+    "requirements": [
+      { "ar": "لا يشترط", "en": "None" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الوحدة ١: الحروف", "en": "Unit 1: The script" }, "lessons": [
+        { "ar": "الحروف وأشكالها", "en": "Letters and their forms" },
+        { "ar": "الحركات", "en": "Vowel marks" },
+        { "ar": "قراءة كلمات بسيطة", "en": "Reading simple words" }
+      ]},
+      { "title": { "ar": "الوحدة ٢: الحياة اليومية", "en": "Unit 2: Daily life" }, "lessons": [
+        { "ar": "التحيات والتعارف", "en": "Greetings & introductions" },
+        { "ar": "في السوق والمطعم", "en": "At the market & restaurant" },
+        { "ar": "في العمل", "en": "At work" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "online", "days": { "ar": "الإثنين والأربعاء", "en": "Mon & Wed" }, "time": "19:00 – 20:00", "startDate": "2026-10-19", "seatsTotal": 10, "seatsLeft": 7 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل الكورس بالإنجليزية؟", "en": "Is the course taught in English?" }, "a": { "ar": "نعم، الشرح بالإنجليزية مع التدرج في استخدام العربية.", "en": "Yes, explanations are in English with gradually more Arabic." } }
+    ],
+    "reviews": [
+      { "name": "John P.", "rating": 5, "date": "2026-02-14", "text": { "ar": "أصبحت أقرأ اللافتات وأتحدث مع زملائي بالعربية.", "en": "I can now read signs and chat with colleagues in Arabic." } }
+    ],
+    "rating": 4.8,
+    "studentsCount": 95,
+    "badges": [],
+    "certificate": true,
+    "publishedAt": "2026-02-01",
+    "popularity": 55
+  },
+  {
+    "id": "c-scratch",
+    "slug": "scratch-coding-for-kids",
+    "category": "programming",
+    "title": { "ar": "البرمجة للأطفال بـ Scratch", "en": "Coding for Kids with Scratch" },
+    "subtitle": { "ar": "صمّم ألعابك وقصصك التفاعلية وتعلّم التفكير المنطقي", "en": "Build your own games & interactive stories while learning logic" },
+    "description": {
+      "ar": "يتعلم الطفل أساسيات البرمجة (التسلسل، التكرار، الشروط، المتغيرات) عبر بناء ألعاب وقصص متحركة باستخدام Scratch، ويخرج في نهاية الكورس بمشروع لعبة كاملة يعرضها على أهله.",
+      "en": "Kids learn programming basics (sequence, loops, conditions, variables) by building games and animated stories in Scratch, finishing with a complete game project to show their family."
+    },
+    "instructorId": "youssef-samir",
+    "level": "beginner",
+    "ageGroups": ["kids"],
+    "prices": {
+      "in-person": { "price": 700, "oldPrice": 850 },
+      "online": { "price": 600 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 16,
+    "sessionMinutes": 75,
+    "outcomes": [
+      { "ar": "فهم مفاهيم البرمجة الأساسية", "en": "Understand core programming concepts" },
+      { "ar": "بناء ٦ ألعاب وقصص تفاعلية", "en": "Build 6 games and interactive stories" },
+      { "ar": "تنمية التفكير المنطقي وحل المشكلات", "en": "Develop logical thinking & problem-solving" },
+      { "ar": "عرض مشروع نهائي", "en": "Present a final project" }
+    ],
+    "audience": [
+      { "ar": "الأطفال من ٧ إلى ١٢ سنة", "en": "Children aged 7 to 12" }
+    ],
+    "requirements": [
+      { "ar": "لابتوب أو كمبيوتر (للأونلاين)", "en": "Laptop or PC (for online)" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "المستوى ١: أول برنامج", "en": "Level 1: First program" }, "lessons": [
+        { "ar": "واجهة Scratch والشخصيات", "en": "Scratch interface & sprites" },
+        { "ar": "الحركة والأصوات", "en": "Motion & sounds" },
+        { "ar": "قصة متحركة", "en": "Animated story" }
+      ]},
+      { "title": { "ar": "المستوى ٢: الألعاب", "en": "Level 2: Games" }, "lessons": [
+        { "ar": "التكرار والشروط", "en": "Loops & conditions" },
+        { "ar": "المتغيرات والنقاط", "en": "Variables & scores" },
+        { "ar": "لعبة المتاهة", "en": "Maze game" }
+      ]},
+      { "title": { "ar": "المشروع النهائي", "en": "Final project" }, "lessons": [
+        { "ar": "تخطيط اللعبة", "en": "Planning the game" },
+        { "ar": "البرمجة والاختبار", "en": "Coding & testing" },
+        { "ar": "يوم العرض", "en": "Demo day" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "السبت", "en": "Saturday" }, "time": "11:00 – 13:30", "startDate": "2026-10-10", "seatsTotal": 8, "seatsLeft": 2 },
+      { "id": "g2", "mode": "online", "days": { "ar": "الأحد والأربعاء", "en": "Sun & Wed" }, "time": "17:00 – 18:15", "startDate": "2026-10-25", "seatsTotal": 8, "seatsLeft": 6, "earlyBirdUntil": "2026-10-15" }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يحتاج الطفل لتثبيت برامج؟", "en": "Does my child need to install software?" }, "a": { "ar": "لا، Scratch يعمل من المتصفح مجاناً.", "en": "No, Scratch runs free in the browser." } }
+    ],
+    "reviews": [
+      { "name": "أبو آدم", "rating": 5, "date": "2026-06-05", "text": { "ar": "ابني صمم لعبة كاملة وعرضها علينا بفخر!", "en": "My son built a full game and proudly showed it to us!" } }
+    ],
+    "rating": 4.9,
+    "studentsCount": 260,
+    "badges": ["bestseller"],
+    "certificate": true,
+    "publishedAt": "2025-10-01",
+    "popularity": 88
+  },
+  {
+    "id": "c-python",
+    "slug": "python-for-beginners",
+    "category": "programming",
+    "title": { "ar": "Python للناشئين والمبتدئين", "en": "Python for Teens & Beginners" },
+    "subtitle": { "ar": "من أول سطر كود إلى مشاريع حقيقية ومقدمة في تصميم المواقع", "en": "From your first line of code to real projects and an intro to web design" },
+    "description": {
+      "ar": "كورس عملي لتعلم لغة Python من الصفر: المتغيرات، الشروط، الحلقات، الدوال، القوائم والملفات، مع ٥ مشاريع تطبيقية ومقدمة قصيرة في HTML و CSS لبناء أول صفحة ويب.",
+      "en": "A hands-on Python course from zero: variables, conditions, loops, functions, lists and files, with 5 applied projects and a short intro to HTML & CSS to build your first web page."
+    },
+    "instructorId": "youssef-samir",
+    "level": "beginner",
+    "ageGroups": ["teens", "adults"],
+    "prices": {
+      "online": { "price": 900, "oldPrice": 1100 },
+      "in-person": { "price": 1000 },
+      "recorded": { "price": 400 }
+    },
+    "durationWeeks": 10,
+    "sessionsCount": 20,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "كتابة برامج Python نظيفة", "en": "Write clean Python programs" },
+      { "ar": "بناء ٥ مشاريع (آلة حاسبة، لعبة، ...)", "en": "Build 5 projects (calculator, game, …)" },
+      { "ar": "فهم أساسيات الخوارزميات", "en": "Understand algorithm basics" },
+      { "ar": "بناء صفحة ويب بسيطة بـ HTML و CSS", "en": "Build a simple web page with HTML & CSS" }
+    ],
+    "audience": [
+      { "ar": "الناشئون من ١٢ سنة فأكثر", "en": "Teens aged 12+" },
+      { "ar": "الكبار الراغبون في دخول مجال البرمجة", "en": "Adults starting a coding career" }
+    ],
+    "requirements": [
+      { "ar": "لابتوب", "en": "A laptop" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الأساسيات", "en": "Fundamentals" }, "lessons": [
+        { "ar": "المتغيرات وأنواع البيانات", "en": "Variables & data types" },
+        { "ar": "الشروط والحلقات", "en": "Conditions & loops" },
+        { "ar": "الدوال", "en": "Functions" }
+      ]},
+      { "title": { "ar": "هياكل البيانات والمشاريع", "en": "Data structures & projects" }, "lessons": [
+        { "ar": "القوائم والقواميس", "en": "Lists & dictionaries" },
+        { "ar": "التعامل مع الملفات", "en": "Working with files" },
+        { "ar": "مشروع لعبة التخمين", "en": "Guessing-game project" }
+      ]},
+      { "title": { "ar": "مقدمة الويب", "en": "Web intro" }, "lessons": [
+        { "ar": "HTML الأساسي", "en": "HTML basics" },
+        { "ar": "تنسيق بـ CSS", "en": "Styling with CSS" },
+        { "ar": "نشر صفحتك الأولى", "en": "Publish your first page" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "online", "days": { "ar": "الأحد والثلاثاء", "en": "Sun & Tue" }, "time": "19:00 – 20:30", "startDate": "2026-10-11", "seatsTotal": 12, "seatsLeft": 8 },
+      { "id": "g2", "mode": "in-person", "days": { "ar": "الجمعة", "en": "Friday" }, "time": "15:00 – 18:00", "startDate": "2026-10-23", "seatsTotal": 10, "seatsLeft": 3, "earlyBirdUntil": "2026-10-16" }
+    ],
+    "faq": [
+      { "q": { "ar": "هل أحتاج خلفية في الرياضيات؟", "en": "Do I need a math background?" }, "a": { "ar": "لا، يكفي منطق بسيط وسنبني الباقي معاً.", "en": "No, simple logic is enough — we'll build the rest together." } }
+    ],
+    "reviews": [
+      { "name": "Ziad M.", "rating": 5, "date": "2026-04-10", "text": { "ar": "شرح منظم ومشاريع ممتعة جداً.", "en": "Well-organised explanations and very fun projects." } }
+    ],
+    "rating": 4.8,
+    "studentsCount": 230,
+    "badges": ["new"],
+    "certificate": true,
+    "publishedAt": "2026-09-10",
+    "popularity": 84
+  },
+  {
+    "id": "c-icdl",
+    "slug": "icdl-computer-skills",
+    "category": "computer-skills",
+    "title": { "ar": "مهارات الكمبيوتر و ICDL", "en": "Computer Skills & ICDL" },
+    "subtitle": { "ar": "Word و Excel و PowerPoint والإنترنت بثقة + التحضير لشهادة ICDL", "en": "Word, Excel, PowerPoint & the internet with confidence + ICDL prep" },
+    "description": {
+      "ar": "كورس يؤهلك لاستخدام الحاسوب باحتراف في الدراسة والعمل، يغطي حزمة مايكروسوفت أوفيس والبريد الإلكتروني والأمان الرقمي، مع التحضير لوحدات شهادة ICDL الدولية.",
+      "en": "Become a confident computer user for study and work: MS Office, email and digital safety, with preparation for the international ICDL modules."
+    },
+    "instructorId": "youssef-samir",
+    "level": "all-levels",
+    "ageGroups": ["teens", "adults"],
+    "prices": {
+      "in-person": { "price": 850, "oldPrice": 1000 },
+      "online": { "price": 750 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 16,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "إعداد مستندات احترافية في Word", "en": "Create professional documents in Word" },
+      { "ar": "جداول ومعادلات Excel", "en": "Excel tables & formulas" },
+      { "ar": "عروض PowerPoint جذابة", "en": "Engaging PowerPoint presentations" },
+      { "ar": "الاستعداد لاختبارات ICDL", "en": "Be ready for ICDL tests" }
+    ],
+    "audience": [
+      { "ar": "الطلاب والموظفون وربّات البيوت", "en": "Students, employees and homemakers" }
+    ],
+    "requirements": [
+      { "ar": "لا يشترط", "en": "None" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "أساسيات الحاسب", "en": "Computer essentials" }, "lessons": [
+        { "ar": "نظام ويندوز والملفات", "en": "Windows & files" },
+        { "ar": "الإنترنت والبريد", "en": "Internet & email" },
+        { "ar": "الأمان الرقمي", "en": "Digital safety" }
+      ]},
+      { "title": { "ar": "حزمة أوفيس", "en": "MS Office" }, "lessons": [
+        { "ar": "Word", "en": "Word" },
+        { "ar": "Excel", "en": "Excel" },
+        { "ar": "PowerPoint", "en": "PowerPoint" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "الإثنين والأربعاء", "en": "Mon & Wed" }, "time": "10:00 – 11:30", "startDate": "2026-10-12", "seatsTotal": 10, "seatsLeft": 6 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل رسوم شهادة ICDL الرسمية مشمولة؟", "en": "Are official ICDL fees included?" }, "a": { "ar": "رسوم الاختبار الرسمي منفصلة وسنرشدك لمركز الاختبار.", "en": "Official exam fees are separate; we'll guide you to the test centre." } }
+    ],
+    "reviews": [
+      { "name": "هالة ع.", "rating": 5, "date": "2026-01-20", "text": { "ar": "أصبحت أعمل على Excel بثقة في عملي.", "en": "I now use Excel confidently at work." } }
+    ],
+    "rating": 4.6,
+    "studentsCount": 170,
+    "badges": [],
+    "certificate": true,
+    "publishedAt": "2025-07-01",
+    "popularity": 60
+  },
+  {
+    "id": "c-graphic-design",
+    "slug": "graphic-design-essentials",
+    "category": "graphic-design",
+    "title": { "ar": "أساسيات التصميم الجرافيكي", "en": "Graphic Design Essentials" },
+    "subtitle": { "ar": "Photoshop و Illustrator و Canva لصناعة هوية وسوشيال ميديا احترافية", "en": "Photoshop, Illustrator & Canva for pro branding and social media" },
+    "description": {
+      "ar": "تعلّم مبادئ التصميم (الألوان، الخطوط، التكوين) وطبّقها في Photoshop و Illustrator و Canva لتصميم شعارات ومنشورات سوشيال ميديا وبوسترات، مع بناء معرض أعمال (Portfolio).",
+      "en": "Learn design principles (color, typography, composition) and apply them in Photoshop, Illustrator and Canva to create logos, social posts and posters — and build a portfolio."
+    },
+    "instructorId": "nadine-farouk",
+    "level": "beginner",
+    "ageGroups": ["teens", "adults"],
+    "prices": {
+      "in-person": { "price": 1100, "oldPrice": 1300 },
+      "online": { "price": 950 },
+      "recorded": { "price": 450 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 16,
+    "sessionMinutes": 120,
+    "outcomes": [
+      { "ar": "فهم مبادئ التصميم البصري", "en": "Understand visual design principles" },
+      { "ar": "إتقان الأدوات الأساسية في Photoshop و Illustrator", "en": "Master core Photoshop & Illustrator tools" },
+      { "ar": "تصميم هوية بصرية بسيطة", "en": "Design a simple brand identity" },
+      { "ar": "معرض أعمال من ٨ تصميمات", "en": "A portfolio of 8 designs" }
+    ],
+    "audience": [
+      { "ar": "المهتمون بالتصميم والعمل الحر", "en": "Aspiring designers & freelancers" },
+      { "ar": "أصحاب المشاريع الصغيرة", "en": "Small-business owners" }
+    ],
+    "requirements": [
+      { "ar": "لابتوب بمواصفات متوسطة", "en": "A mid-range laptop" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "مبادئ التصميم", "en": "Design principles" }, "lessons": [
+        { "ar": "نظرية الألوان", "en": "Color theory" },
+        { "ar": "الخطوط والتكوين", "en": "Typography & composition" },
+        { "ar": "Canva بسرعة", "en": "Canva fast-track" }
+      ]},
+      { "title": { "ar": "Photoshop و Illustrator", "en": "Photoshop & Illustrator" }, "lessons": [
+        { "ar": "الطبقات والأقنعة", "en": "Layers & masks" },
+        { "ar": "الرسم المتجه وأداة القلم", "en": "Vectors & the pen tool" },
+        { "ar": "تصميم شعار", "en": "Logo design" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "الثلاثاء والخميس", "en": "Tue & Thu" }, "time": "18:00 – 20:00", "startDate": "2026-10-20", "seatsTotal": 10, "seatsLeft": 4, "earlyBirdUntil": "2026-10-13" }
+    ],
+    "faq": [
+      { "q": { "ar": "هل أحتاج نسخة مدفوعة من البرامج؟", "en": "Do I need paid software?" }, "a": { "ar": "يمكنك البدء بالنسخ التجريبية المجانية، وسنرشدك للخيارات المناسبة.", "en": "You can start with free trials; we'll advise on the best options." } }
+    ],
+    "reviews": [
+      { "name": "Yara N.", "rating": 5, "date": "2026-03-03", "text": { "ar": "بدأت أستقبل طلبات تصميم بعد الكورس!", "en": "I started getting design orders after the course!" } }
+    ],
+    "rating": 4.7,
+    "studentsCount": 150,
+    "badges": [],
+    "certificate": true,
+    "publishedAt": "2025-12-01",
+    "popularity": 87
+  },
+  {
+    "id": "c-drawing",
+    "slug": "drawing-and-art-for-kids",
+    "category": "arts",
+    "title": { "ar": "الرسم والفنون للأطفال", "en": "Drawing & Art for Kids" },
+    "subtitle": { "ar": "رسم، تلوين، وأشغال يدوية مستوحاة من الفن المصري القديم", "en": "Drawing, painting & crafts inspired by ancient Egyptian art" },
+    "description": {
+      "ar": "ورشة فنية أسبوعية تنمّي خيال الطفل ومهاراته الحركية الدقيقة، يتعلم فيها أساسيات الرسم والظل والألوان المائية والأشغال اليدوية، مع مشروع خاص عن الفن المصري القديم.",
+      "en": "A weekly art workshop that grows imagination and fine-motor skills: drawing basics, shading, watercolors and crafts, plus a special ancient-Egyptian art project."
+    },
+    "instructorId": "heba-ramzy",
+    "level": "all-levels",
+    "ageGroups": ["kids"],
+    "prices": {
+      "in-person": { "price": 450, "oldPrice": 550 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 8,
+    "sessionMinutes": 120,
+    "outcomes": [
+      { "ar": "أساسيات الرسم والأشكال", "en": "Drawing basics & shapes" },
+      { "ar": "التلوين بالألوان المائية والخشبية", "en": "Watercolor & pencil coloring" },
+      { "ar": "مشروع فرعوني مميز", "en": "A special pharaonic project" },
+      { "ar": "معرض فني في نهاية الكورس", "en": "An art exhibition at the end" }
+    ],
+    "audience": [
+      { "ar": "الأطفال من ٥ إلى ١٢ سنة", "en": "Children aged 5 to 12" }
+    ],
+    "requirements": [
+      { "ar": "الأدوات متوفرة في المعهد", "en": "Materials provided at the institute" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الشهر الأول", "en": "Month 1" }, "lessons": [
+        { "ar": "الخطوط والأشكال", "en": "Lines & shapes" },
+        { "ar": "الظل والنور", "en": "Light & shadow" },
+        { "ar": "الألوان المائية", "en": "Watercolors" }
+      ]},
+      { "title": { "ar": "الشهر الثاني", "en": "Month 2" }, "lessons": [
+        { "ar": "الفن المصري القديم", "en": "Ancient Egyptian art" },
+        { "ar": "الأشغال اليدوية", "en": "Handicrafts" },
+        { "ar": "المعرض الختامي", "en": "Final exhibition" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "الجمعة", "en": "Friday" }, "time": "16:00 – 18:00", "startDate": "2026-10-09", "seatsTotal": 12, "seatsLeft": 0 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل الأدوات مشمولة في السعر؟", "en": "Are materials included?" }, "a": { "ar": "نعم، جميع الأدوات الأساسية مشمولة.", "en": "Yes, all basic materials are included." } }
+    ],
+    "reviews": [
+      { "name": "أم جنى", "rating": 5, "date": "2026-05-30", "text": { "ar": "بنتي تنتظر يوم الجمعة كل أسبوع بشوق!", "en": "My daughter can't wait for Friday every week!" } }
+    ],
+    "rating": 4.9,
+    "studentsCount": 200,
+    "badges": [],
+    "certificate": true,
+    "publishedAt": "2025-09-15",
+    "popularity": 76
+  },
+  {
+    "id": "c-piano",
+    "slug": "piano-and-keyboard",
+    "category": "music",
+    "title": { "ar": "البيانو والأورج للمبتدئين", "en": "Piano & Keyboard for Beginners" },
+    "subtitle": { "ar": "اعزف مقطوعاتك الأولى وتعلّم قراءة النوتة الموسيقية", "en": "Play your first pieces and learn to read sheet music" },
+    "description": {
+      "ar": "كورس لتعلم العزف على البيانو أو الأورج من البداية: وضعية اليدين، قراءة النوتة، الإيقاع، والعزف بكلتا اليدين، مع مقطوعات عالمية وعربية محبوبة. (تتوفر أيضاً حصص كمان عند الطلب)",
+      "en": "Learn piano or keyboard from the start: hand position, reading notes, rhythm and playing hands-together, with beloved international and Arabic pieces. (Violin classes also available on request)"
+    },
+    "instructorId": "heba-ramzy",
+    "level": "beginner",
+    "ageGroups": ["kids", "teens", "adults"],
+    "prices": {
+      "in-person": { "price": 750, "oldPrice": 900 },
+      "online": { "price": 650 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 8,
+    "sessionMinutes": 60,
+    "outcomes": [
+      { "ar": "قراءة النوتة الموسيقية", "en": "Read sheet music" },
+      { "ar": "العزف بكلتا اليدين", "en": "Play with both hands" },
+      { "ar": "٥ مقطوعات كاملة", "en": "5 complete pieces" },
+      { "ar": "أساسيات الإيقاع والسلالم", "en": "Rhythm & scale basics" }
+    ],
+    "audience": [
+      { "ar": "من ٦ سنوات فأكثر", "en": "Ages 6 and up" }
+    ],
+    "requirements": [
+      { "ar": "أورج أو بيانو للتمرين في المنزل", "en": "A keyboard or piano to practise at home" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "البداية", "en": "Getting started" }, "lessons": [
+        { "ar": "لوحة المفاتيح ووضعية اليد", "en": "The keyboard & hand position" },
+        { "ar": "النوتة والإيقاع", "en": "Notes & rhythm" },
+        { "ar": "أول مقطوعة", "en": "First piece" }
+      ]},
+      { "title": { "ar": "التقدم", "en": "Progressing" }, "lessons": [
+        { "ar": "اليد اليسرى والمصاحبة", "en": "Left hand & accompaniment" },
+        { "ar": "السلالم الأساسية", "en": "Basic scales" },
+        { "ar": "حفلة صغيرة", "en": "Mini recital" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "حسب الاتفاق (فردي)", "en": "Flexible (one-to-one)" }, "time": "—", "startDate": "2026-10-05", "seatsTotal": 6, "seatsLeft": 3 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل الحصص فردية؟", "en": "Are lessons one-to-one?" }, "a": { "ar": "نعم، حصص الموسيقى فردية لضمان أفضل متابعة.", "en": "Yes, music lessons are one-to-one for the best follow-up." } }
+    ],
+    "reviews": [
+      { "name": "Karma S.", "rating": 5, "date": "2026-04-18", "text": { "ar": "عزفت أول مقطوعة كاملة بعد ٣ أسابيع.", "en": "Played my first full piece after 3 weeks." } }
+    ],
+    "rating": 4.8,
+    "studentsCount": 120,
+    "badges": [],
+    "certificate": true,
+    "publishedAt": "2025-10-20",
+    "popularity": 58
+  },
+  {
+    "id": "c-egy-math",
+    "slug": "egyptian-curriculum-math-science",
+    "category": "academic",
+    "title": { "ar": "تقوية الرياضيات والعلوم – المنهج المصري", "en": "Math & Science Tutoring – Egyptian Curriculum" },
+    "subtitle": { "ar": "متابعة شهرية لطلاب المنهج المصري في الخارج (ابتدائي – إعدادي)", "en": "Monthly support for Egyptian-curriculum students abroad (primary – prep)" },
+    "description": {
+      "ar": "حصص تقوية منتظمة لطلاب المنهج المصري الدارسين في الإمارات (نظام الطلاب بالخارج)، تغطي منهج الرياضيات والعلوم للترم الحالي مع حل نماذج امتحانات وزارية ومتابعة شهرية لولي الأمر.",
+      "en": "Regular tutoring for Egyptian-curriculum students in the UAE (students-abroad system), covering the current term's math & science with past ministry exams and monthly parent reports."
+    },
+    "instructorId": "tarek-nabil",
+    "level": "all-levels",
+    "ageGroups": ["kids", "teens"],
+    "prices": {
+      "in-person": { "price": 500 },
+      "online": { "price": 420 }
+    },
+    "durationWeeks": 4,
+    "sessionsCount": 8,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "فهم عميق لدروس المنهج", "en": "Deep understanding of curriculum lessons" },
+      { "ar": "حل نماذج الامتحانات", "en": "Solving past exams" },
+      { "ar": "رفع الدرجات والثقة", "en": "Higher grades and confidence" },
+      { "ar": "تقرير شهري لولي الأمر", "en": "Monthly parent report" }
+    ],
+    "audience": [
+      { "ar": "طلاب الصف الرابع الابتدائي حتى الثالث الإعدادي", "en": "Grades 4 to 9 (Egyptian system)" }
+    ],
+    "requirements": [
+      { "ar": "كتاب الوزارة للترم الحالي", "en": "The current term's ministry book" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "كل شهر", "en": "Every month" }, "lessons": [
+        { "ar": "شرح دروس الشهر", "en": "This month's lessons" },
+        { "ar": "تدريبات وواجبات", "en": "Practice & homework" },
+        { "ar": "اختبار شهري وتقرير", "en": "Monthly test & report" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "الأحد والأربعاء", "en": "Sun & Wed" }, "time": "16:00 – 17:30", "startDate": "2026-10-04", "seatsTotal": 8, "seatsLeft": 3 },
+      { "id": "g2", "mode": "online", "days": { "ar": "الإثنين والخميس", "en": "Mon & Thu" }, "time": "18:00 – 19:30", "startDate": "2026-10-05", "seatsTotal": 8, "seatsLeft": 5 }
+    ],
+    "faq": [
+      { "q": { "ar": "السعر شهري أم للترم؟", "en": "Is the price monthly or per term?" }, "a": { "ar": "السعر شهري (٨ حصص)، ويمكن الاشتراك في باقة الترم بخصم.", "en": "Monthly (8 sessions); a discounted term package is available." } }
+    ],
+    "reviews": [
+      { "name": "أم مروان", "rating": 5, "date": "2026-06-01", "text": { "ar": "ابني حصل على الدرجة النهائية في الرياضيات.", "en": "My son got full marks in math." } }
+    ],
+    "rating": 4.9,
+    "studentsCount": 310,
+    "badges": ["bestseller"],
+    "certificate": false,
+    "publishedAt": "2025-04-01",
+    "popularity": 86
+  },
+  {
+    "id": "c-public-speaking",
+    "slug": "public-speaking-leadership",
+    "category": "personal-skills",
+    "title": { "ar": "الخطابة والقيادة للناشئين", "en": "Public Speaking & Leadership for Youth" },
+    "subtitle": { "ar": "ثقة بالنفس، إلقاء مؤثر، وإدارة وقت وفريق", "en": "Self-confidence, impactful speaking, time & team management" },
+    "description": {
+      "ar": "برنامج يبني شخصية الطالب القيادية عبر تدريبات عملية على الإلقاء أمام الجمهور، ولغة الجسد، وإدارة الوقت، والعمل الجماعي، وينتهي بمسابقة خطابة وتكريم.",
+      "en": "A programme that builds leadership through hands-on practice in public speaking, body language, time management and teamwork, ending with a speech contest and awards."
+    },
+    "instructorId": "tarek-nabil",
+    "level": "all-levels",
+    "ageGroups": ["kids", "teens"],
+    "prices": {
+      "in-person": { "price": 600, "oldPrice": 750 },
+      "online": { "price": 500 }
+    },
+    "durationWeeks": 6,
+    "sessionsCount": 12,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "التحدث أمام الجمهور بثقة", "en": "Speak in public with confidence" },
+      { "ar": "لغة الجسد ونبرة الصوت", "en": "Body language & voice" },
+      { "ar": "إدارة الوقت وتحديد الأهداف", "en": "Time management & goal setting" },
+      { "ar": "قيادة فريق وتنفيذ مشروع", "en": "Lead a team and deliver a project" }
+    ],
+    "audience": [
+      { "ar": "من ٩ إلى ١٧ سنة", "en": "Ages 9 to 17" }
+    ],
+    "requirements": [
+      { "ar": "لا يشترط", "en": "None" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الثقة والإلقاء", "en": "Confidence & delivery" }, "lessons": [
+        { "ar": "كسر رهبة المسرح", "en": "Beating stage fright" },
+        { "ar": "بناء الخطبة", "en": "Structuring a speech" },
+        { "ar": "لغة الجسد", "en": "Body language" }
+      ]},
+      { "title": { "ar": "القيادة", "en": "Leadership" }, "lessons": [
+        { "ar": "إدارة الوقت", "en": "Time management" },
+        { "ar": "العمل الجماعي", "en": "Teamwork" },
+        { "ar": "مسابقة الخطابة", "en": "Speech contest" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "السبت", "en": "Saturday" }, "time": "10:00 – 11:30", "startDate": "2026-10-17", "seatsTotal": 14, "seatsLeft": 9, "earlyBirdUntil": "2026-10-10" }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يناسب الطفل الخجول؟", "en": "Is it suitable for a shy child?" }, "a": { "ar": "بالتأكيد، صُمم خصيصاً لبناء الثقة تدريجياً.", "en": "Absolutely — it's designed to build confidence gradually." } }
+    ],
+    "reviews": [
+      { "name": "أبو ريم", "rating": 5, "date": "2026-03-15", "text": { "ar": "ابنتي ألقت كلمة في طابور المدرسة لأول مرة!", "en": "My daughter gave a speech at school assembly for the first time!" } }
+    ],
+    "rating": 4.8,
+    "studentsCount": 140,
+    "badges": ["new"],
+    "certificate": true,
+    "publishedAt": "2026-09-05",
+    "popularity": 62
+  },
+  {
+    "id": "c-social-design",
+    "slug": "social-media-design",
+    "category": "graphic-design",
+    "title": { "ar": "تصميم السوشيال ميديا بـ Canva و Photoshop", "en": "Social Media Design with Canva & Photoshop" },
+    "subtitle": { "ar": "صمّم بوستات وستوريز وإعلانات احترافية تجذب المتابعين", "en": "Design pro posts, stories and ads that grab attention" },
+    "description": {
+      "ar": "كورس عملي لتصميم محتوى السوشيال ميديا من الفكرة إلى النشر: مقاسات المنصات، اختيار الخطوط والألوان، القوالب، تعديل الصور في Photoshop، وتصميم بوستات وستوريز وإعلانات ممولة لإنستجرام وفيسبوك وتيك توك، مع بناء حزمة قوالب خاصة بك.",
+      "en": "A hands-on course for social media content from idea to publishing: platform sizes, fonts and colors, templates, photo editing in Photoshop, and designing posts, stories and paid ads for Instagram, Facebook and TikTok — building your own template kit."
+    },
+    "instructorId": "nadine-farouk",
+    "level": "beginner",
+    "ageGroups": ["teens", "adults"],
+    "prices": {
+      "in-person": { "price": 850, "oldPrice": 1000 },
+      "online": { "price": 700, "oldPrice": 850 },
+      "recorded": { "price": 350 }
+    },
+    "durationWeeks": 6,
+    "sessionsCount": 12,
+    "sessionMinutes": 120,
+    "outcomes": [
+      { "ar": "تصميم بوستات وستوريز بمقاسات كل منصة", "en": "Design posts & stories in every platform's sizes" },
+      { "ar": "إتقان Canva وأساسيات Photoshop", "en": "Master Canva and Photoshop essentials" },
+      { "ar": "تصميم إعلانات ممولة عالية التحويل", "en": "Design high-converting paid ads" },
+      { "ar": "حزمة قوالب جاهزة لمشروعك أو عملائك", "en": "A ready template kit for your brand or clients" }
+    ],
+    "audience": [
+      { "ar": "أصحاب المشاريع الصغيرة وصنّاع المحتوى", "en": "Small-business owners and content creators" },
+      { "ar": "الراغبون في العمل الحر كمصممين", "en": "Aspiring freelance designers" }
+    ],
+    "requirements": [
+      { "ar": "لابتوب أو كمبيوتر", "en": "A laptop or PC" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "الأساسيات", "en": "Foundations" }, "lessons": [
+        { "ar": "مبادئ التصميم للسوشيال ميديا", "en": "Design principles for social media" },
+        { "ar": "Canva من الصفر", "en": "Canva from scratch" },
+        { "ar": "الألوان والخطوط والهوية", "en": "Colors, fonts & identity" }
+      ]},
+      { "title": { "ar": "Photoshop للمحتوى", "en": "Photoshop for content" }, "lessons": [
+        { "ar": "قص وتعديل الصور", "en": "Cutting out & retouching photos" },
+        { "ar": "تصميم بوست منتج", "en": "Product post design" },
+        { "ar": "الستوريز والريلز كفر", "en": "Stories & reel covers" }
+      ]},
+      { "title": { "ar": "الإعلانات والمشروع", "en": "Ads & project" }, "lessons": [
+        { "ar": "تصميم إعلان ممول", "en": "Designing a paid ad" },
+        { "ar": "بناء حزمة القوالب", "en": "Building your template kit" },
+        { "ar": "عرض المشروع النهائي", "en": "Final project showcase" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "الأحد والثلاثاء", "en": "Sun & Tue" }, "time": "18:00 – 20:00", "startDate": "2026-10-18", "seatsTotal": 10, "seatsLeft": 3, "earlyBirdUntil": "2026-10-11" },
+      { "id": "g2", "mode": "online", "days": { "ar": "الإثنين والخميس", "en": "Mon & Thu" }, "time": "20:00 – 22:00", "startDate": "2026-10-26", "seatsTotal": 12, "seatsLeft": 8 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل أحتاج خبرة سابقة في التصميم؟", "en": "Do I need design experience?" }, "a": { "ar": "لا، نبدأ من الصفر خطوة بخطوة.", "en": "No, we start from zero, step by step." } }
+    ],
+    "reviews": [
+      { "name": "Reem A.", "rating": 5, "date": "2026-07-10", "text": { "ar": "صرت أصمم محتوى متجري بنفسي وبشكل احترافي.", "en": "I now design my shop's content myself — professionally." } }
+    ],
+    "rating": 4.9,
+    "studentsCount": 240,
+    "badges": ["new"],
+    "certificate": true,
+    "publishedAt": "2026-09-15",
+    "popularity": 89
+  },
+  {
+    "id": "c-brand-identity",
+    "slug": "brand-identity-logo-design",
+    "category": "graphic-design",
+    "title": { "ar": "تصميم الشعارات والهوية البصرية بـ Illustrator", "en": "Logo & Brand Identity Design with Illustrator" },
+    "subtitle": { "ar": "من الفكرة إلى دليل هوية كامل — مستوى احترافي لسوق العمل", "en": "From concept to a full brand guide — pro level for the job market" },
+    "description": {
+      "ar": "كورس متقدم في Adobe Illustrator لتصميم الشعارات والهويات البصرية: البحث والتحليل، الإسكتشات، الرسم المتجه، أنظمة الألوان والخطوط، المطبوعات، وإعداد دليل الهوية وملفات التسليم للعميل، مع مشروعين حقيقيين لمعرض أعمالك.",
+      "en": "An advanced Adobe Illustrator course on logos and brand identities: research, sketching, vector drawing, color and type systems, print collateral, brand guidelines and client handoff files — with two real projects for your portfolio."
+    },
+    "instructorId": "nadine-farouk",
+    "level": "intermediate",
+    "ageGroups": ["teens", "adults"],
+    "prices": {
+      "online": { "price": 1200, "oldPrice": 1400 },
+      "in-person": { "price": 1350 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 16,
+    "sessionMinutes": 120,
+    "outcomes": [
+      { "ar": "احتراف أداة القلم والرسم المتجه", "en": "Master the pen tool and vector drawing" },
+      { "ar": "منهجية تصميم شعار من البحث حتى التسليم", "en": "A logo process from research to delivery" },
+      { "ar": "إعداد دليل هوية بصرية كامل", "en": "Build a complete brand guidelines document" },
+      { "ar": "مشروعان احترافيان لمعرض الأعمال", "en": "Two professional portfolio projects" }
+    ],
+    "audience": [
+      { "ar": "من أنهى أساسيات التصميم ويريد الاحتراف", "en": "Those who finished design basics and want to go pro" },
+      { "ar": "المصممون المستقلون", "en": "Freelance designers" }
+    ],
+    "requirements": [
+      { "ar": "معرفة أساسية بأي برنامج تصميم", "en": "Basic knowledge of any design software" },
+      { "ar": "لابتوب يعمل عليه Illustrator", "en": "A laptop that runs Illustrator" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "Illustrator باحتراف", "en": "Illustrator in depth" }, "lessons": [
+        { "ar": "أداة القلم والأشكال", "en": "Pen tool & shapes" },
+        { "ar": "الشبكات والنِسَب", "en": "Grids & proportions" },
+        { "ar": "الخطوط المخصصة", "en": "Custom lettering" }
+      ]},
+      { "title": { "ar": "الهوية البصرية", "en": "Brand identity" }, "lessons": [
+        { "ar": "البحث وبناء المفهوم", "en": "Research & concept" },
+        { "ar": "أنظمة الألوان والخطوط", "en": "Color & type systems" },
+        { "ar": "المطبوعات والتطبيقات", "en": "Collateral & mockups" }
+      ]},
+      { "title": { "ar": "التسليم", "en": "Delivery" }, "lessons": [
+        { "ar": "دليل الهوية", "en": "Brand guidelines" },
+        { "ar": "تجهيز ملفات العميل", "en": "Client handoff files" },
+        { "ar": "عرض المشروع أمام لجنة", "en": "Project pitch to a panel" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "online", "days": { "ar": "السبت والثلاثاء", "en": "Sat & Tue" }, "time": "20:00 – 22:00", "startDate": "2026-11-07", "seatsTotal": 10, "seatsLeft": 7, "earlyBirdUntil": "2026-10-28" },
+      { "id": "g2", "mode": "in-person", "days": { "ar": "الجمعة", "en": "Friday" }, "time": "14:00 – 18:00", "startDate": "2026-11-06", "seatsTotal": 8, "seatsLeft": 5 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يناسب المبتدئين؟", "en": "Is it for beginners?" }, "a": { "ar": "يُفضّل إنهاء «أساسيات التصميم الجرافيكي» أولاً أو امتلاك خبرة مشابهة.", "en": "We recommend finishing “Graphic Design Essentials” first, or similar experience." } }
+    ],
+    "reviews": [
+      { "name": "Omar H.", "rating": 5, "date": "2026-05-12", "text": { "ar": "أول عميل حقيقي لي جاء من مشروع الكورس!", "en": "My first real client came from the course project!" } }
+    ],
+    "rating": 4.8,
+    "studentsCount": 120,
+    "badges": [],
+    "certificate": true,
+    "publishedAt": "2026-06-01",
+    "popularity": 76
+  },
+  {
+    "id": "c-web-dev",
+    "slug": "web-development-bootcamp",
+    "category": "programming",
+    "title": { "ar": "تطوير المواقع: HTML و CSS و JavaScript", "en": "Web Development: HTML, CSS & JavaScript" },
+    "subtitle": { "ar": "ابنِ مواقع حقيقية متجاوبة وانشرها على الإنترنت", "en": "Build real, responsive websites and publish them online" },
+    "description": {
+      "ar": "برنامج مكثف لتعلم تطوير واجهات المواقع من الصفر: HTML لبناء الصفحة، CSS و Flexbox و Grid للتصميم المتجاوب، JavaScript للتفاعل، ثم Git و GitHub والنشر. تخرج بثلاثة مواقع كاملة في معرض أعمالك.",
+      "en": "An intensive front-end course from scratch: HTML for structure, CSS with Flexbox and Grid for responsive design, JavaScript for interactivity, then Git, GitHub and deployment. You graduate with three complete websites in your portfolio."
+    },
+    "instructorId": "ahmed-elsherif",
+    "level": "beginner",
+    "ageGroups": ["teens", "adults"],
+    "prices": {
+      "in-person": { "price": 1400, "oldPrice": 1700 },
+      "online": { "price": 1200, "oldPrice": 1450 },
+      "recorded": { "price": 500 }
+    },
+    "durationWeeks": 12,
+    "sessionsCount": 24,
+    "sessionMinutes": 120,
+    "outcomes": [
+      { "ar": "بناء صفحات ويب متجاوبة مع كل الشاشات", "en": "Build web pages that work on every screen" },
+      { "ar": "برمجة التفاعل بـ JavaScript", "en": "Program interactivity with JavaScript" },
+      { "ar": "استخدام Git و GitHub ونشر المواقع", "en": "Use Git & GitHub and deploy sites" },
+      { "ar": "٣ مشاريع كاملة لمعرض الأعمال", "en": "3 complete portfolio projects" }
+    ],
+    "audience": [
+      { "ar": "الناشئون من ١٤ سنة فأكثر والكبار", "en": "Teens 14+ and adults" },
+      { "ar": "الراغبون في دخول مجال البرمجة أو العمل الحر", "en": "Career changers and future freelancers" }
+    ],
+    "requirements": [
+      { "ar": "لابتوب", "en": "A laptop" },
+      { "ar": "لا يشترط خبرة برمجية", "en": "No coding experience required" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "HTML و CSS", "en": "HTML & CSS" }, "lessons": [
+        { "ar": "هيكل الصفحة والعناصر", "en": "Page structure & elements" },
+        { "ar": "التنسيق و Flexbox و Grid", "en": "Styling, Flexbox & Grid" },
+        { "ar": "مشروع: صفحة هبوط متجاوبة", "en": "Project: responsive landing page" }
+      ]},
+      { "title": { "ar": "JavaScript", "en": "JavaScript" }, "lessons": [
+        { "ar": "المتغيرات والدوال والشروط", "en": "Variables, functions & conditions" },
+        { "ar": "التعامل مع الصفحة (DOM)", "en": "Working with the DOM" },
+        { "ar": "مشروع: تطبيق مهام تفاعلي", "en": "Project: interactive to-do app" }
+      ]},
+      { "title": { "ar": "الاحتراف والنشر", "en": "Going pro & deploying" }, "lessons": [
+        { "ar": "Git و GitHub", "en": "Git & GitHub" },
+        { "ar": "جلب البيانات من API", "en": "Fetching data from an API" },
+        { "ar": "مشروع التخرج ونشره", "en": "Capstone project & deployment" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "السبت والإثنين", "en": "Sat & Mon" }, "time": "18:00 – 20:00", "startDate": "2026-10-17", "seatsTotal": 12, "seatsLeft": 4, "earlyBirdUntil": "2026-10-10" },
+      { "id": "g2", "mode": "online", "days": { "ar": "الأحد والأربعاء", "en": "Sun & Wed" }, "time": "20:30 – 22:30", "startDate": "2026-10-25", "seatsTotal": 15, "seatsLeft": 9 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يؤهلني الكورس للعمل؟", "en": "Will this make me job-ready?" }, "a": { "ar": "يعطيك أساساً قوياً ومعرض أعمال، ونرشح بعده مسار React للاحتراف.", "en": "It gives you a strong base and a portfolio; we recommend a React track next." } }
+    ],
+    "reviews": [
+      { "name": "Khaled M.", "rating": 5, "date": "2026-08-02", "text": { "ar": "نشرت أول موقع لي وحصلت على مشروع عمل حر!", "en": "Published my first site and landed a freelance gig!" } },
+      { "name": "سلمى ر.", "rating": 5, "date": "2026-06-18", "text": { "ar": "المدرب يشرح ببساطة والمشاريع عملية جداً.", "en": "The trainer explains simply and the projects are very practical." } }
+    ],
+    "rating": 4.9,
+    "studentsCount": 310,
+    "badges": ["bestseller"],
+    "certificate": true,
+    "publishedAt": "2026-03-01",
+    "popularity": 93
+  },
+  {
+    "id": "c-app-kids",
+    "slug": "mobile-apps-for-kids",
+    "category": "programming",
+    "title": { "ar": "صناعة تطبيقات الموبايل للأطفال", "en": "Mobile App Making for Kids" },
+    "subtitle": { "ar": "صمّم وبرمج تطبيقك الأول على الأندرويد بـ App Inventor", "en": "Design and code your first Android app with App Inventor" },
+    "description": {
+      "ar": "يتعلم الطفل تصميم واجهات التطبيقات وبرمجتها بالكتل عبر MIT App Inventor، ويبني تطبيقات حقيقية يجربها على موبايله: آلة حاسبة، لعبة، واختبار تفاعلي — خطوة ممتازة بعد Scratch.",
+      "en": "Kids learn to design app screens and program them with blocks in MIT App Inventor, building real apps they try on their own phone: a calculator, a game and a quiz — a great next step after Scratch."
+    },
+    "instructorId": "youssef-samir",
+    "level": "beginner",
+    "ageGroups": ["kids", "teens"],
+    "prices": {
+      "in-person": { "price": 750, "oldPrice": 900 },
+      "online": { "price": 650 }
+    },
+    "durationWeeks": 8,
+    "sessionsCount": 16,
+    "sessionMinutes": 75,
+    "outcomes": [
+      { "ar": "تصميم واجهات تطبيقات جذابة", "en": "Design attractive app screens" },
+      { "ar": "البرمجة بالكتل والأحداث والمتغيرات", "en": "Block coding, events & variables" },
+      { "ar": "٤ تطبيقات تعمل على الموبايل", "en": "4 apps running on a real phone" },
+      { "ar": "مهارات التفكير الإبداعي وحل المشكلات", "en": "Creative thinking & problem-solving" }
+    ],
+    "audience": [
+      { "ar": "الأطفال من ٩ إلى ١٤ سنة", "en": "Children aged 9 to 14" }
+    ],
+    "requirements": [
+      { "ar": "لابتوب + موبايل أندرويد (اختياري للتجربة)", "en": "Laptop + Android phone (optional for testing)" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "تطبيقي الأول", "en": "My first app" }, "lessons": [
+        { "ar": "واجهة App Inventor", "en": "The App Inventor interface" },
+        { "ar": "الأزرار والأحداث", "en": "Buttons & events" },
+        { "ar": "تطبيق الآلة الحاسبة", "en": "Calculator app" }
+      ]},
+      { "title": { "ar": "ألعاب وتطبيقات", "en": "Games & apps" }, "lessons": [
+        { "ar": "الرسم والحركة", "en": "Drawing & animation" },
+        { "ar": "لعبة التقاط الكرة", "en": "Catch-the-ball game" },
+        { "ar": "تطبيق اختبار تفاعلي", "en": "Interactive quiz app" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "in-person", "days": { "ar": "السبت", "en": "Saturday" }, "time": "14:00 – 16:30", "startDate": "2026-10-24", "seatsTotal": 8, "seatsLeft": 5, "earlyBirdUntil": "2026-10-15" },
+      { "id": "g2", "mode": "online", "days": { "ar": "الإثنين والأربعاء", "en": "Mon & Wed" }, "time": "17:00 – 18:15", "startDate": "2026-10-26", "seatsTotal": 8, "seatsLeft": 6 }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يلزم أن يكون الطفل درس Scratch؟", "en": "Must my child have done Scratch first?" }, "a": { "ar": "يُفضّل لكنه ليس شرطاً.", "en": "It helps, but it's not required." } }
+    ],
+    "reviews": [
+      { "name": "أم زياد", "rating": 5, "date": "2026-06-25", "text": { "ar": "ابني يعرض تطبيقه على كل العائلة بفخر!", "en": "My son proudly shows his app to the whole family!" } }
+    ],
+    "rating": 4.9,
+    "studentsCount": 150,
+    "badges": ["new"],
+    "certificate": true,
+    "publishedAt": "2026-09-20",
+    "popularity": 79
+  },
+  {
+    "id": "c-ai-python",
+    "slug": "ai-with-python-for-teens",
+    "category": "programming",
+    "title": { "ar": "الذكاء الاصطناعي بلغة Python للناشئين", "en": "AI with Python for Teens" },
+    "subtitle": { "ar": "من تحليل البيانات إلى أول نموذج تعلّم آلي تبنيه بنفسك", "en": "From data analysis to your first machine-learning model" },
+    "description": {
+      "ar": "كورس للناشئين الذين يعرفون أساسيات Python، يأخذهم إلى عالم الذكاء الاصطناعي: التعامل مع البيانات بـ Pandas، الرسوم البيانية، مفاهيم التعلم الآلي، وبناء نماذج للتصنيف والتنبؤ، مع استخدام أدوات الذكاء الاصطناعي التوليدي بمسؤولية.",
+      "en": "For teens who know Python basics — a journey into AI: handling data with Pandas, charts, machine-learning concepts and building classification and prediction models, plus using generative AI tools responsibly."
+    },
+    "instructorId": "ahmed-elsherif",
+    "level": "intermediate",
+    "ageGroups": ["teens"],
+    "prices": {
+      "online": { "price": 1100, "oldPrice": 1300 },
+      "in-person": { "price": 1200 }
+    },
+    "durationWeeks": 10,
+    "sessionsCount": 20,
+    "sessionMinutes": 90,
+    "outcomes": [
+      { "ar": "تحليل البيانات وتمثيلها بيانياً", "en": "Analyse and visualise data" },
+      { "ar": "فهم مفاهيم التعلم الآلي", "en": "Understand machine-learning concepts" },
+      { "ar": "بناء نموذج تصنيف وتنبؤ", "en": "Build classification & prediction models" },
+      { "ar": "استخدام أدوات الذكاء الاصطناعي بمسؤولية", "en": "Use AI tools responsibly" }
+    ],
+    "audience": [
+      { "ar": "الناشئون من ١٣ إلى ١٨ سنة", "en": "Teens aged 13 to 18" }
+    ],
+    "requirements": [
+      { "ar": "أساسيات Python (أو كورس Python للناشئين)", "en": "Python basics (or our Python for Teens course)" }
+    ],
+    "curriculum": [
+      { "title": { "ar": "البيانات", "en": "Data" }, "lessons": [
+        { "ar": "مراجعة Python", "en": "Python refresher" },
+        { "ar": "Pandas والجداول", "en": "Pandas & tables" },
+        { "ar": "الرسوم البيانية", "en": "Charts" }
+      ]},
+      { "title": { "ar": "التعلم الآلي", "en": "Machine learning" }, "lessons": [
+        { "ar": "كيف تتعلم الآلة؟", "en": "How do machines learn?" },
+        { "ar": "نموذج تصنيف بـ scikit-learn", "en": "Classifier with scikit-learn" },
+        { "ar": "مشروع: توقع درجات الطلاب", "en": "Project: predicting student grades" }
+      ]}
+    ],
+    "groups": [
+      { "id": "g1", "mode": "online", "days": { "ar": "الثلاثاء والخميس", "en": "Tue & Thu" }, "time": "18:30 – 20:00", "startDate": "2026-11-03", "seatsTotal": 12, "seatsLeft": 8, "earlyBirdUntil": "2026-10-25" }
+    ],
+    "faq": [
+      { "q": { "ar": "هل يحتاج رياضيات متقدمة؟", "en": "Does it need advanced math?" }, "a": { "ar": "لا، نشرح المفاهيم بأمثلة بسيطة وبصرية.", "en": "No, concepts are explained with simple visual examples." } }
+    ],
+    "reviews": [
+      { "name": "Yousef T.", "rating": 5, "date": "2026-08-20", "text": { "ar": "بنيت نموذجاً يتوقع نتائج المباريات، تجربة رائعة.", "en": "I built a model that predicts match results — amazing experience." } }
+    ],
+    "rating": 4.8,
+    "studentsCount": 90,
+    "badges": ["new"],
+    "certificate": true,
+    "publishedAt": "2026-09-25",
+    "popularity": 82
+  }
+]

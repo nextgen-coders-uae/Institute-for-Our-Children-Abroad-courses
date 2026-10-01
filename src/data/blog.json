@@ -1,0 +1,84 @@
+[
+  {
+    "slug": "how-to-help-your-child-learn-english-at-home",
+    "category": { "ar": "نصائح لأولياء الأمور", "en": "Parent tips" },
+    "icon": "papyrus",
+    "date": "2026-09-20",
+    "readMinutes": 5,
+    "author": "nourhan-adel",
+    "title": { "ar": "٧ طرق لمساعدة طفلك على تعلّم الإنجليزية في البيت", "en": "7 Ways to Help Your Child Learn English at Home" },
+    "excerpt": { "ar": "خطوات بسيطة يومية يمكن لأي ولي أمر تطبيقها — حتى لو لم يكن يتقن الإنجليزية.", "en": "Simple daily steps any parent can apply — even if you're not fluent in English yourself." },
+    "content": [
+      { "type": "p", "text": { "ar": "لا يحتاج طفلك إلى ساعات طويلة من الدراسة ليتقن الإنجليزية؛ ما يحتاجه حقاً هو التعرّض المنتظم للغة في جو ممتع وآمن. إليك سبع طرق مجرّبة.", "en": "Your child doesn't need long hours of study to master English; what they really need is regular exposure in a fun, safe environment. Here are seven proven ways." } },
+      { "type": "h2", "text": { "ar": "١. اجعل القراءة عادة يومية", "en": "1. Make reading a daily habit" } },
+      { "type": "p", "text": { "ar": "عشر دقائق من القصص المصورة قبل النوم تصنع فرقاً كبيراً في المفردات والنطق.", "en": "Ten minutes of picture books before bed makes a big difference to vocabulary and pronunciation." } },
+      { "type": "h2", "text": { "ar": "٢. استخدم الأغاني والألعاب", "en": "2. Use songs and games" } },
+      { "type": "p", "text": { "ar": "الأغاني التعليمية وألعاب البطاقات تثبّت الكلمات في الذاكرة دون ملل.", "en": "Educational songs and flashcard games lock words into memory without boredom." } },
+      { "type": "ul", "items": [
+        { "ar": "خصص ركناً إنجليزياً في البيت", "en": "Create an English corner at home" },
+        { "ar": "شاهدوا الكرتون بالإنجليزية مع ترجمة إنجليزية", "en": "Watch cartoons in English with English subtitles" },
+        { "ar": "امدح المحاولة وليس الكمال", "en": "Praise the effort, not perfection" },
+        { "ar": "تحدثوا عن يومكم بجمل بسيطة", "en": "Talk about your day in simple sentences" },
+        { "ar": "استعن بمدرب متخصص لبناء الأساس الصحيح", "en": "Get a specialist trainer to build the right foundation" }
+      ]},
+      { "type": "p", "text": { "ar": "وإن أردت معرفة مستوى طفلك بدقة، جرّب اختبار تحديد المستوى المجاني على موقعنا.", "en": "Want to know your child's exact level? Try the free placement test on our website." } }
+    ]
+  },
+  {
+    "slug": "ielts-writing-task-2-tips",
+    "category": { "ar": "الاختبارات الدولية", "en": "International exams" },
+    "icon": "eye",
+    "date": "2026-09-05",
+    "readMinutes": 6,
+    "author": "nourhan-adel",
+    "title": { "ar": "كيف تحصل على Band 7 في IELTS Writing Task 2", "en": "How to Score Band 7 in IELTS Writing Task 2" },
+    "excerpt": { "ar": "هيكل المقال المثالي والأخطاء التي تخفض درجتك دون أن تشعر.", "en": "The ideal essay structure and the mistakes that silently lower your band." },
+    "content": [
+      { "type": "p", "text": { "ar": "يمثل Task 2 ثلثي درجة الكتابة، لذلك فإن إتقانه هو أسرع طريق لرفع الـ Band.", "en": "Task 2 is worth two-thirds of your writing score, so mastering it is the fastest way to raise your band." } },
+      { "type": "h2", "text": { "ar": "الهيكل المقترح", "en": "Suggested structure" } },
+      { "type": "ul", "items": [
+        { "ar": "مقدمة: إعادة صياغة السؤال + رأيك بوضوح", "en": "Introduction: paraphrase the question + clear opinion" },
+        { "ar": "فقرتان رئيسيتان: فكرة + شرح + مثال", "en": "Two body paragraphs: idea + explanation + example" },
+        { "ar": "خاتمة: تلخيص دون أفكار جديدة", "en": "Conclusion: summarise without new ideas" }
+      ]},
+      { "type": "h2", "text": { "ar": "أخطاء شائعة", "en": "Common mistakes" } },
+      { "type": "p", "text": { "ar": "الخروج عن الموضوع، وتكرار الكلمات، وعدم الإجابة على كل أجزاء السؤال من أكثر الأسباب التي تخفض الدرجة.", "en": "Going off-topic, repeating words and not answering every part of the question are the top reasons for lower scores." } }
+    ]
+  },
+  {
+    "slug": "why-expat-kids-need-arabic",
+    "category": { "ar": "الهوية واللغة", "en": "Identity & language" },
+    "icon": "palette",
+    "date": "2026-08-18",
+    "readMinutes": 4,
+    "author": "mariam-abdelrahman",
+    "title": { "ar": "لماذا يحتاج أبناؤنا في الخارج إلى تقوية العربية مبكراً؟", "en": "Why Expat Children Need Early Arabic Support" },
+    "excerpt": { "ar": "اللغة ليست مادة دراسية فقط، بل جسر يربط الطفل بعائلته وثقافته.", "en": "Language isn't just a school subject — it's a bridge to family and culture." },
+    "content": [
+      { "type": "p", "text": { "ar": "يدرس كثير من أبناء الجالية في مدارس أجنبية، فتضعف لديهم القراءة والكتابة بالعربية مع الوقت. التأسيس المبكر يحمي هذه المهارة ويقوّي الهوية.", "en": "Many expat children attend foreign-curriculum schools and gradually lose Arabic reading and writing. Early foundation protects this skill and strengthens identity." } },
+      { "type": "h2", "text": { "ar": "ماذا نقترح؟", "en": "What do we suggest?" } },
+      { "type": "ul", "items": [
+        { "ar": "حصتان أسبوعياً على الأقل", "en": "At least two sessions a week" },
+        { "ar": "قصص عربية مصورة في البيت", "en": "Arabic picture books at home" },
+        { "ar": "ربط التعلم بالقصص والأنشطة الممتعة", "en": "Connect learning with stories and fun activities" }
+      ]}
+    ]
+  },
+  {
+    "slug": "coding-for-kids-where-to-start",
+    "category": { "ar": "التقنية", "en": "Technology" },
+    "icon": "pyramid",
+    "date": "2026-07-30",
+    "readMinutes": 4,
+    "author": "youssef-samir",
+    "title": { "ar": "البرمجة للأطفال: من أين نبدأ؟", "en": "Coding for Kids: Where to Start?" },
+    "excerpt": { "ar": "Scratch أم Python؟ دليل مختصر لاختيار البداية الصحيحة حسب عمر طفلك.", "en": "Scratch or Python? A short guide to choosing the right start for your child's age." },
+    "content": [
+      { "type": "p", "text": { "ar": "البرمجة تعلّم الطفل التفكير المنطقي وحل المشكلات، لكن اختيار الأداة المناسبة للعمر هو مفتاح الاستمرار.", "en": "Coding teaches logical thinking and problem-solving, but choosing the right tool for your child's age is the key to sticking with it." } },
+      { "type": "h2", "text": { "ar": "من ٧ إلى ١١ سنة: Scratch", "en": "Ages 7–11: Scratch" } },
+      { "type": "p", "text": { "ar": "برمجة بالكتل الملونة دون كتابة كود، مع نتائج فورية على الشاشة.", "en": "Block-based coding without typing, with instant results on screen." } },
+      { "type": "h2", "text": { "ar": "من ١٢ سنة فأكثر: Python", "en": "Ages 12+: Python" } },
+      { "type": "p", "text": { "ar": "لغة حقيقية سهلة القراءة تُستخدم في الذكاء الاصطناعي وتحليل البيانات.", "en": "A real, readable language used in AI and data analysis." } }
+    ]
+  }
+]

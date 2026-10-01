@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 80" role="img" aria-label="Abnaona">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F0DA8E"/><stop offset="1" stop-color="#C9A227"/></linearGradient>
+    <pattern id="m" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M4 0 8 4 4 8 0 4z" fill="none" stroke="#C9A227" stroke-width="1"/><circle cx="4" cy="4" r="1" fill="#C9A227"/></pattern>
+    <clipPath id="c"><path d="M10 76V32a22 22 0 0 1 44 0v44z"/></clipPath>
+  </defs>
+  <path d="M4 78V32a28 28 0 0 1 56 0v46z" fill="#1E3A8A"/>
+  <path d="M4 78V32a28 28 0 0 1 56 0v46" fill="none" stroke="url(#g)" stroke-width="3"/>
+  <rect x="10" y="4" width="44" height="72" fill="url(#m)" clip-path="url(#c)" opacity=".9"/>
+  <path d="M32 10v4M26 12l2 3M38 12l-2 3" stroke="#E3B54A" stroke-width="2" stroke-linecap="round"/>
+</svg>
